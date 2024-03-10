@@ -1,0 +1,53 @@
+.absolute-centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.playButton {
+    composes: absolute-centered;
+
+    font-weight: 700;
+    font-family: var(--font-josefin);
+    font-size: 40px;
+    text-align: center;
+
+    width: 240px;
+    padding: 24px 0px 18px 0px;
+    
+    z-index: 999;
+    cursor: pointer;
+    border: none;
+
+    background: rgb(0, 225, 255);
+    color: white;
+}
+
+@media screen and (max-width: 1200px) {
+    .playButton {
+        top: 20%;
+    }
+}
+
+.playButton:hover {
+    color: rgb(0, 225, 255);
+    background: white;
+} 
+
+.isPaused {
+    color: black;
+    top: 28px;
+    right: -36px;
+    left: auto;
+    font-size: 14px;
+    width: 96px;
+    padding: 12px 0 9px 0;
+    border-radius: 12px;
+    background-color: #666666;
+}
+
+.isPaused:hover {
+    background: pink;
+    color: black;
+}

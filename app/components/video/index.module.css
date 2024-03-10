@@ -1,0 +1,54 @@
+.absolute-centered {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.video {
+    width: 100%;
+    padding-bottom: 54px;
+}
+
+.navigate {
+    composes: absolute-centered;
+    color: white;
+}
+
+.navigate ul {
+    font-family: var(--font-josefin);
+    list-style-type: none;
+    text-align: center;
+    color: white;
+}
+
+.navigate ul li {
+    padding: 24px 0;
+    font-size: 20px;
+    
+}
+
+.navigate ul li:hover {
+    color: rgb(0, 225, 255); 
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.navigate ul li:first-of-type {
+    padding: 26px 32px 22px 32px;
+    margin-bottom: 40px;
+    font-size: 32px;
+    color: black;
+    background: #ffff5a;
+}
+
+.navigate ul li:first-of-type:hover {
+    color: rgb(87, 87, 87);
+    text-decoration: underline;
+}
+
+.popup {
+    composes: absolute-centered;
+    color: pink;
+    font-family: var(--font-josefin);
+}

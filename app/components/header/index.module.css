@@ -1,0 +1,29 @@
+.h1 {
+    color: rgb(0, 225, 255);
+    padding: 18px 0 14px 19px;
+    font-weight: 300;
+    border-bottom: 1px solid rgba(255,255,255, .5);
+    font-family: var(--font-josefin);
+  }
+  
+  .h1 span {
+    color: pink;
+    font-size: 15px;
+    margin-left: 14px;
+    font-family: var(--font-josefin);
+  }
+  
+  @media screen and (max-width: 670px) {
+    .h1 span {
+      display: none;
+    }
+  }
+  
+  .overlay {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 62px;
+    background: rgba(0,0,0,.7);
+  }
