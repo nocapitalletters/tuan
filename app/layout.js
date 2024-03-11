@@ -11,6 +11,9 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+      <head>
+        <meta property="og:image" content="https://lummo.euwest01.umbraco.io/media/oxdlosxe/anders.jpg"></meta>
+      </head>
       <body className={josefinSans.variable}>{children}</body>
     </html>
   );
