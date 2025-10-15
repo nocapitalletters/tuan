@@ -33,7 +33,7 @@ export default function Video() {
     return (
         <>
             <video onPlay={popup} onEnded={showLinks} id="video" className={styles.video} preload="none" >
-                <source src="https://lummo.euwest01.umbraco.io/media/z4gbp2rz/720.webm" type="video/webm" />
+                <source src="https://sistavarvet.euwest01.umbraco.io/media/uqff0dyk/720.webm" type="video/webm" />
                 Your browser does not support the video tag.
             </video>
             {isEnded && 
