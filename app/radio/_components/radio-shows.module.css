@@ -1,0 +1,19 @@
+.radioShow { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 2fr); gap: 24px; margin-bottom: 100px; scroll-margin-top: 15px; }
+.radioShow h2 { font-size: 1.6rem; }
+.radioTracks { padding: 0; list-style: none; }
+.radioTracks li { border: 1px solid #4285f4; background: #fafafa; padding: 16px; margin-bottom: 8px; }
+.radioTracks h3 { margin-bottom: 5px; font-size: 1.2rem; }
+.radioTracks button { border: 0; padding: 0; background: none; color: #174eae; margin-right: 20px; }
+.radioPhotos figure { margin: 0 0 8px; position: relative; }
+.radioPhotos img { width: 100%; }
+.radioPhotos figcaption { position: absolute; right: 0; bottom: 0; background: #fff9; padding: 5px 12px; }
+@media (min-width: 1101px) {
+  .reversed { grid-template-columns: minmax(0, 2fr) minmax(0, 1fr); }
+  .reversed > :first-child { grid-column: 2; grid-row: 1; }
+  .reversed .radioPhotos { grid-column: 1; grid-row: 1; }
+}
+@media (max-width: 1100px) {
+  .radioShow { grid-template-columns: 1fr; }
+  .radioPhotos { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }
+}
+@media (max-width: 650px) { .radioPhotos { grid-template-columns: 1fr; } }

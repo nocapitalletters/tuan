@@ -1,0 +1,5 @@
+.aboutPage { max-width: 1100px; margin: auto; }
+.aboutCopy { max-width: 800px; font-size: 1.1rem; }
+.manifesto { list-style: none; padding: 0; }
+.manifesto li { padding: 1em; margin-bottom: .5em; border: 1px solid #4285f4; background: #fafafa; }
+.aboutPage > img { width: 100%; margin-top: 40px; }
