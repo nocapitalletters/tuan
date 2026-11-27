@@ -5,6 +5,7 @@ A Next.js archive of the band's music, radio appearances, videos and final gig.
 ## Development
 
 Use Node.js 20.x (20.19+), 22.x (22.13+) or 24+. Install dependencies with `npm ci`, then run `npm run dev`. Open http://localhost:3000.
+Netlify uses Node.js 24.x as selected by `.nvmrc`. If the site has a `NODE_VERSION` environment variable set, remove it or set it to `24` to avoid overriding this selection. Commit and push the version file, then redeploy.
 Run `npm run build` for a production build and `npm run lint` for linting. After building, run `npm test` for the integration checks; the download check requires access to the Umbraco media host.
 
 The editorial content and media URLs are in `app/data/archive.json`. Images, recordings and the stems ZIP are hosted by Umbraco; the site does not require the CMS API at runtime. The final gig video is hosted there as well.
