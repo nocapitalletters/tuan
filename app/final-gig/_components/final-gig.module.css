@@ -1,0 +1,13 @@
+.finalGig { background: #000; color: white; min-height: 80vh; font-family: var(--font-josefin); }
+:global(body):has(.finalGig) { background: #000; }
+.videoArea { position: relative; min-height: 50vh; }
+.video { display: block; width: 100%; }
+.playButton { position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%); border: 0; background: rgb(0, 225, 255); color: white; font: 700 40px var(--font-josefin); padding: 24px 60px 18px; cursor: pointer; }
+.playButton:hover { background: white; color: rgb(0, 175, 200); }
+.pauseButton { top: 20px; right: 20px; left: auto; transform: none; padding: 12px; font-size: 14px; border-radius: 12px; background: #666; }
+.navigate { position: absolute; top: 20%; left: 50%; transform: translateX(-50%); display: grid; gap: 25px; text-align: center; }
+.navigate button { background: #ffff5a; border: 0; padding: 18px 30px; font: inherit; font-size: 24px; cursor: pointer; }
+.navigate a { color: white; font-size: 20px; }
+.popup, .error { position: absolute; top: 55%; left: 50%; transform: translateX(-50%); color: pink; text-align: center; }
+.error { top: 70%; }
+@media (max-width: 670px) { .playButton { font-size: 24px; padding: 14px 35px; } .pauseButton { font-size: 14px; padding: 10px; } .videoArea { min-height: 30vh; } }

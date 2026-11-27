@@ -1,0 +1,1101 @@
+{
+  "fanDiplomaImage": "https://bricksdemo.euwest01.umbraco.io/media/0uogmxjs/verified.jpg",
+  "logo": "<svg id=\"Layer_1\" data-name=\"Layer 1\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 517.37 115.51\"><title>TUAN LOGO</title><path d=\"M336.56,253l0,0h0a1.17,1.17,0,0,1-.5-.4h0a8.44,8.44,0,0,1-1.45-5.38h0A50.49,50.49,0,0,1,335,242h0c1.09-10.62,2.67-23.95,3.8-34h0l.09-.77.71-.28a12.82,12.82,0,0,1,4.71-.82h0A14.52,14.52,0,0,1,351,207.7h0l.71.38,0,.81c-.41,8.4-3.63,18.26-5.41,27.52h0c-1.06,5.38-.83,11-4.36,16.17h0l-.34.49-.59.06a23.6,23.6,0,0,1-2.5.27h0a4.52,4.52,0,0,1-1.84-.36Zm1.86-2.22a11.33,11.33,0,0,0,1.63-.18h0c2.65-4.14,2.59-9.14,3.63-14.71h0c1.76-9.13,4.78-18.6,5.32-26.31h0a13,13,0,0,0-4.7-.86h0a11.6,11.6,0,0,0-3,.39h0c-1.12,9.95-2.64,22.85-3.7,33.15h0c-.15,1.47-.4,3.29-.4,4.94h0a7,7,0,0,0,.7,3.52h0a2.29,2.29,0,0,0,.56.06Z\" transform=\"translate(-28 -142.04)\"/><path d=\"M515.66,248.8l-.42-.21-.1-.46a15.88,15.88,0,0,1-.63-3.36h0a3.21,3.21,0,0,1,.66-2.07h0a1,1,0,0,1,.37-.28h0l.13,0h0a72.94,72.94,0,0,1,8.41-1.08h0c3.2-.36,6.42-1,8.39-2.27h0a4.42,4.42,0,0,0,2.26-3.44h0a1.67,1.67,0,0,0,0-.31h0a3.45,3.45,0,0,0-1-2.23h0c-.6-.73-1.44-1.5-2.25-2.44h0c-2.48-1.81-5.22-2.8-7.83-4.06h0a13.93,13.93,0,0,1-6.85-6.09h0a10.74,10.74,0,0,1-1.19-5h0c0-5.71,3.69-11.61,8-14.46h0a8.56,8.56,0,0,1,4.79-1.48h0c5.47.06,10.2,4.88,13.21,8.62h0l.23.28,0,.37a5.79,5.79,0,0,1-3.6,4.77h0l-.36.15-.37-.15a26.6,26.6,0,0,1-4.65-2.93h0a7.89,7.89,0,0,0-4.27-1.77h0a4.1,4.1,0,0,0-1.67.36h0a6.54,6.54,0,0,0-3.59,5.39h0a3.77,3.77,0,0,0,0,.58h0c.1,1.61,3,3.7,6.49,5.41h0c3.42,1.75,7.18,3.24,9.19,5h0a12.77,12.77,0,0,1,6.28,10.92h0a10.64,10.64,0,0,1-4.12,8.54h0l-.06,0-.06,0c-5.07,2.79-11.38,5.47-17.6,5.48h0a17.42,17.42,0,0,1-7.87-1.76Zm7.87-.2c5.62,0,11.67-2.49,16.57-5.19h0a8.68,8.68,0,0,0,3.31-6.95h0a10.85,10.85,0,0,0-5.37-9.27h0l-.1-.05-.08-.08c-1.43-1.35-5.31-3-8.85-4.76h0c-3.52-1.85-7-3.72-7.55-6.89h0a6.07,6.07,0,0,1-.06-.85h0a8.43,8.43,0,0,1,4.8-7.2h0a6.17,6.17,0,0,1,2.43-.51h0A9.69,9.69,0,0,1,534,209h0a32.29,32.29,0,0,0,3.89,2.57h0a4.23,4.23,0,0,0,2-2.53h0c-2.86-3.56-7.35-7.63-11.43-7.57h0a6.57,6.57,0,0,0-3.72,1.16h0c-3.69,2.39-7.12,8-7.08,12.82h0a8.7,8.7,0,0,0,1,4.13h0c1.41,2.66,3.45,4,6,5.23h0c2.5,1.23,5.43,2.26,8.22,4.32h0l.09.06.08.09c.71.85,1.59,1.64,2.35,2.56h0a5.37,5.37,0,0,1,1.4,3.47h0c0,.17,0,.34,0,.51h0a6.44,6.44,0,0,1-3.15,4.89h0a17.1,17.1,0,0,1-5.94,2.09h0c-4.1.76-8.66.85-11.07,1.42h0a1.78,1.78,0,0,0-.09.59h0a11.76,11.76,0,0,0,.47,2.47h0a15.7,15.7,0,0,0,6.59,1.36Z\" transform=\"translate(-28 -142.04)\"/><path d=\"M410.4,250l-.18-.23,0-.3c-2.08-14.8-1.08-29.85-2-44.5h0l0-.38.21-.32a2.64,2.64,0,0,1,1.32-1h0l.1,0h0l.16,0h0a25.8,25.8,0,0,1,4.4-.86h0a3.67,3.67,0,0,1,3,1.31h0c1.46,1.92,1.44,4.9,1.49,8.41h0c0,1.81,0,3.73,0,5.58h0c0,3.67.29,7.15,1.18,8.68h.59c5.94,0,12-1.67,18-3h0c1.68-3,2-6.48,2.31-10.19h0c.34-3.87.68-8,3-11.61h0l.2-.3.32-.14a8.76,8.76,0,0,1,3.31-.65h0a6.11,6.11,0,0,1,5.48,2.78h0l.2.35-.06.41c-2.39,14.71-2.62,29.95-4.94,44.78h0l-.11.71-.69.22a15.6,15.6,0,0,1-4.33.85h0a4.47,4.47,0,0,1-4-1.93h0l-.18-.26v-.32c0-.54,0-1.07,0-1.6h0c0-4.38.69-8.68,1-12.85h0a14.77,14.77,0,0,0-2.35-.17h0c-2.45,0-5.18.43-7.9.54h0c-4.82.16-8.86-.2-12,1.58h0c.06,2.48.32,5.16.32,7.86h0a22.41,22.41,0,0,1-.89,6.84h0l-.16.51-.5.21a7.67,7.67,0,0,1-2.91.64h-.05A4.06,4.06,0,0,1,410.4,250Zm3.39-.76a4.87,4.87,0,0,0,1.51-.27h0a21.24,21.24,0,0,0,.63-5.6h0c0-2.77-.31-5.67-.34-8.49h0v-.64l.53-.35c4.16-2.7,8.88-2.07,13.71-2.28h0c2.54-.1,5.29-.54,8-.54h0a15.4,15.4,0,0,1,3.88.43h0l.93.24-.06,1c-.31,4.65-1.09,9.23-1.09,13.71h0c0,.38,0,.76,0,1.14h0a2.32,2.32,0,0,0,1.84.64h0a11,11,0,0,0,3-.53h0c2.17-14.24,2.44-29.08,4.75-43.62h0a4.09,4.09,0,0,0-3.25-1.3h0a6.48,6.48,0,0,0-2.08.35h0c-1.81,3-2.17,6.48-2.49,10.23h0c-.34,3.86-.62,7.95-2.89,11.62h0l-.25.42-.48.11c-6.08,1.34-12.5,3.18-19,3.18h0l-1.23,0h0l-.54,0-.33-.41c-1.88-2.43-1.94-6.4-2-10.56h0c0-1.89,0-3.81,0-5.58h0c.05-3.38-.33-6.32-1-6.92h0a1.3,1.3,0,0,0-1.16-.47h0a23.86,23.86,0,0,0-3.82.79h0c.81,14.52-.1,29.18,1.85,43.35h0a1.93,1.93,0,0,0,1.36.43Z\" transform=\"translate(-28 -142.04)\"/><path d=\"M482.89,248.36h-.17l-.15-.07a3.64,3.64,0,0,1-1.82-2h0l-.11-.25,0-.27c.79-9.42,2.54-18.8,2.77-28.05h0a31.47,31.47,0,0,0-7.35-.7h0c-2.36,0-4.79.12-7.2.12h0a40.35,40.35,0,0,1-4.81-.24h0l-.33,0-.25-.23a4.19,4.19,0,0,1-1.39-1.38h0a.69.69,0,0,1-.07-.15h0a1.07,1.07,0,0,1-.07-.39h0c0-1-.08-2-.08-3h0a23.77,23.77,0,0,1,1-7.45h0l.22-.69.72,0c.9-.06,1.79-.09,2.69-.09h0c8.92,0,17.75,2.57,26.29,3.7h.1l.11,0a67.91,67.91,0,0,0,8.25,2.39h0l.29.06.22.21a6.3,6.3,0,0,1,1.73,4.79h0c0,1.05-.12,2.06-.2,2.94h0l-.05.56-.5.27a10.38,10.38,0,0,1-5.17,1h-1.93a9.82,9.82,0,0,0-3.69.52h0c-1.62,8.47-.67,18-3.11,26.66h0l-.13.47-.45.21a11.55,11.55,0,0,1-4.73,1.13h0c-.21,0-.42,0-.64,0Zm.64-2.1a9,9,0,0,0,3.4-.75h0c2.2-8.22,1.26-17.68,3-26.56h0l.11-.5.45-.23a11,11,0,0,1,5.11-1h0l1.93,0h0a9.37,9.37,0,0,0,3.66-.54h0a19.65,19.65,0,0,0,.13-2.14h0a4.41,4.41,0,0,0-.87-3h0a71.83,71.83,0,0,1-8.09-2.37h0c-8.71-1.18-17.42-3.67-25.9-3.66h0c-.61,0-1.21,0-1.82,0h0a23.44,23.44,0,0,0-.67,6.1h0c0,.9,0,1.81.06,2.71h0l.12.1h0c.1.09.25.19.43.32h0a39.37,39.37,0,0,0,4.26.2h0c2.33,0,4.76-.13,7.2-.13h0a31.33,31.33,0,0,1,8.72,1h0l.78.22v.81c-.15,9.67-2,19.28-2.77,28.74h0a1.83,1.83,0,0,0,.46.61h.27Z\" transform=\"translate(-28 -142.04)\"/><path d=\"M358.68,236.43a23.42,23.42,0,0,1-.6-5.3h0c0-14.08,12.11-27.32,25.74-27.38h0a20.42,20.42,0,0,1,9.25,2.2h0l.52.25.08.57a10.16,10.16,0,0,1,.1,1.44h0a30.69,30.69,0,0,1-.74,5.35h0l-.09.46-.38.26a4.8,4.8,0,0,1-2.78.83h0c-1.95,0-3.65-.81-4.93-.78h0v-.1l0,.1c-3.14,0-5.66,1.06-8.86,2.28h0c-4.74,2.93-7.78,9.2-7.76,15h0c0,5.2,2.29,9.81,7.67,11.79h0l0,0a6.44,6.44,0,0,0,2.68.53h0a11,11,0,0,0,6-1.92h0c1.71-1.18,2.74-2.71,2.73-4.19h0a4.06,4.06,0,0,0-.82-2.36h0a1.8,1.8,0,0,0-.77-.15h0c-.94,0-2.26.64-3.92.68h0a3.88,3.88,0,0,1-2.06-.57h0l-.25-.15-.14-.26a6.09,6.09,0,0,1-.68-3h0a29.52,29.52,0,0,1,.51-4.06h0l.06-.44.35-.27a5.27,5.27,0,0,1,2.57-1.14h0l.24,0,.24.08a8.72,8.72,0,0,0,2.69.35h0c1.54,0,3.24-.23,5-.23h0a8.85,8.85,0,0,1,5.43,1.51h0l.3.22.11.37a22.68,22.68,0,0,1,.87,6.13h0c0,9.8-6.88,18.22-17.3,18.4h-.45a20.74,20.74,0,0,1-20.61-16.56Zm20.65,14.37h.38c9.15-.19,15.1-7.4,15.13-16.21h0a20.15,20.15,0,0,0-.68-5.15h0a7,7,0,0,0-3.83-.89h0c-1.54,0-3.25.24-5,.24h0a10.7,10.7,0,0,1-3.11-.39h0a3,3,0,0,0-.94.42h0a20.12,20.12,0,0,0-.41,3.28h0a4.3,4.3,0,0,0,.27,1.62h0a1.73,1.73,0,0,0,.66.11h0c.91,0,2.25-.64,3.92-.68h0a4,4,0,0,1,2.06.55h0l.19.11.14.18a6.43,6.43,0,0,1,1.39,3.87h0c0,2.51-1.62,4.57-3.67,6h0a13.15,13.15,0,0,1-7.22,2.3h0a8.48,8.48,0,0,1-3.57-.72h0c-6.32-2.31-9.09-8-9.06-13.83h0c0-6.56,3.31-13.47,8.9-16.92h0l.09-.05.1,0c3.18-1.21,6-2.42,9.66-2.46h.11c1.95,0,3.65.81,4.93.77h0a2.71,2.71,0,0,0,1.18-.23h0a25.61,25.61,0,0,0,.62-4.47h0c0-.18,0-.37,0-.56h0a18.45,18.45,0,0,0-7.74-1.71h0c-6.07,0-12,3-16.36,7.75h0a26.06,26.06,0,0,0-7.19,17.44h0a21.41,21.41,0,0,0,.55,4.82h0s0,.05,0,.07h0a18.54,18.54,0,0,0,18.5,14.78Z\" transform=\"translate(-28 -142.04)\"/><path d=\"M240,255.25c-2.3-14.83-2.92-29.9-4.26-44.76h0l0-.34.16-.31a4.61,4.61,0,0,1,1.39-1.45h0l0,0h0a1.44,1.44,0,0,1,.41-.21h0l.24,0h0a37.71,37.71,0,0,1,4.81-.57h0a5.14,5.14,0,0,1,4.82,2.4h0l.16.29v.34c0,.71,0,1.42,0,2.14h0c0,9.09,1.6,18.24,1.61,27.6h0c0,.18,0,.35,0,.53h0c0,.87-.22,1.52-.21,2h0a1.48,1.48,0,0,0,.06.41h0a24.32,24.32,0,0,0,6.27.67h0c2,0,4.08-.11,6.18-.12h0c.9,0,1.82,0,2.73.09h0l.39,0,.3.26a4.07,4.07,0,0,1,1.4,3.22h0c0,2.13-1,4.2-1.07,5.36h0l-.05.83-.81.24c-7.48,2.17-15.77,1.73-23.17,2.48h0l-1.13.11-.18-1.12Zm2.2-1.48c7.05-.59,14.46-.37,20.88-2.08h0c.3-1.62,1-3.21.93-4.34h0a1.74,1.74,0,0,0-.31-1.14h0c-.7,0-1.4-.06-2.11-.06h0c-2,0-4.08.11-6.18.12h0a25.8,25.8,0,0,1-7.41-.9h0l-.37-.11-.24-.31a3.46,3.46,0,0,1-.7-2.16h0c0-.91.22-1.6.21-2h0v-.51h0c0-9.09-1.6-18.23-1.6-27.6h0c0-.62,0-1.23,0-1.84h0a3,3,0,0,0-2.57-.94h0a35.52,35.52,0,0,0-4.24.52h0l-.35.29h0c1.29,14.41,1.93,28.89,4,43Z\" transform=\"translate(-28 -142.04)\"/><path d=\"M100.11,257.18l-.63-.14-.16-.64c-3-12.38-4.14-26-4.14-38.46h0v-.61h0a1,1,0,0,1,.49-.89h0c7.24-4.55,16.27-4.75,24.25-5.3h.19c3.32.38,6.85.37,10.14,1h0c3.27.63,6.39,2,8.48,5.16h0a11.23,11.23,0,0,1,1.82,6.26h0a14.61,14.61,0,0,1-4.85,10.63h0c-4.92,4.49-11,5-16.73,7.21h0l-.11,0h-.11a18.68,18.68,0,0,1-2.79.18h0c-1.43,0-2.85-.09-4.19-.09h0a12,12,0,0,0-4.36.64h0c.55,4.21,1.74,8.52,1.8,13.08h0v.59l-.5.31a10.07,10.07,0,0,1-5.38,1.37h0a14.1,14.1,0,0,1-3.24-.37Zm7-2.49c-.15-4.24-1.36-8.53-1.87-13h0l-.08-.72.63-.33a12.49,12.49,0,0,1,6-1.2h0c1.43,0,2.85.09,4.19.09h0a18.14,18.14,0,0,0,2.38-.14h0c6.09-2.23,11.72-2.83,15.93-6.74h0a12.52,12.52,0,0,0,4.16-9.07h0a9.19,9.19,0,0,0-1.46-5.09h0c-1.71-2.55-4.12-3.65-7.13-4.25h0c-3-.59-6.42-.61-9.86-1h0c-7.83.51-16.24.83-22.69,4.67h0a165.78,165.78,0,0,0,3.93,37.31h0a13.17,13.17,0,0,0,2.12.18h0a8.82,8.82,0,0,0,3.74-.74Z\" transform=\"translate(-28 -142.04)\"/><path d=\"M206.62,254.89l-.85,0-.23-.82c-3.92-13.75-4.12-28.3-7.35-41.84h0l-.12-.53.32-.43a3.37,3.37,0,0,1,2.58-1.32h0a1.22,1.22,0,0,1,.33,0h0a3,3,0,0,0,.62.06h0c.92,0,2.1-.37,3.53-.39h0a4.75,4.75,0,0,1,2.49.64h0l.42.25.12.48c2.54,10.19,2.55,21.23,5.77,31h0c2.94-.11,6.34-1,9.79-1.05h0a13,13,0,0,1,3.84.52h0l.59.17.19.59a10.2,10.2,0,0,1,.45,3.14h0a16.86,16.86,0,0,1-.33,3.18h0l-.12.64-.6.23c-6.16,2.39-13.47,5.46-20.5,5.47h0l-.94,0Zm20-7.4a13.32,13.32,0,0,0,.18-2.1h0a8.75,8.75,0,0,0-.18-1.81h0a11.11,11.11,0,0,0-2.54-.26h0c-3.24,0-6.86,1.05-10.43,1.07h-.17l-.86,0-.28-.81c-3.58-10.35-3.56-21.58-6-31.51h0a2.82,2.82,0,0,0-.89-.13h0c-.91,0-2.1.37-3.53.39h0a5.12,5.12,0,0,1-.94-.08h0a1.39,1.39,0,0,0-.33.1h0c3.06,13.38,3.38,27.3,6.92,40.19h0c6.12,0,13-2.7,19-5.07Z\" transform=\"translate(-28 -142.04)\"/><path d=\"M145.35,256.17l0,0h0a1.3,1.3,0,0,1-.23-.18h0l0,0h0l-.05-.05h0v0h0l0,0h0a8.17,8.17,0,0,1-.53-.87h0l-.16-.32.06-.35c2.2-13.53,9.06-25.81,12.29-38.72h0l.12-.51.47-.23c4.58-2.19,9.55-2.18,14.38-2.18h0a44,44,0,0,0,9.14-.6h0l1-.2.33.93a120.35,120.35,0,0,1,4.93,20.71h0c1.09,6.91,3.56,13.78,3.58,21.06h0c0,.19,0,.38,0,.57h0v.79l-.75.25a15.8,15.8,0,0,1-5.07.83h0a13,13,0,0,1-3.25-.39h0l-.63-.16-.17-.62c-1.08-4-.43-8-1.17-11.4h0a3.06,3.06,0,0,0-1.43-.3h0c-1.26,0-2.89.49-4.52.61h-.07c-3.09,0-6.87-.48-10.2-.48h0a17.81,17.81,0,0,0-4.85.53h0a2.35,2.35,0,0,0-1.56,1.43h0a12.19,12.19,0,0,0-.83,3.14h0c-.44,2.48-.67,5.53-2.82,7.63h0l-.22.21-.3.07a9.67,9.67,0,0,1-2.24.25h0a10.09,10.09,0,0,1-5.06-1.3Zm5.06-.94a8,8,0,0,0,1.42-.13h0a8.58,8.58,0,0,0,1.63-4.24h0a23.2,23.2,0,0,1,1.34-5.67h0a4.65,4.65,0,0,1,3-2.61h0a20.21,20.21,0,0,1,5.47-.61h0c3.5,0,7.28.45,10.18.47h0c1.22-.07,2.88-.58,4.61-.6h0a4.94,4.94,0,0,1,3.11,1h0l.31.24.1.38c.91,3.9.32,7.8,1.07,11.11h0a11.44,11.44,0,0,0,2.06.18h0a13.82,13.82,0,0,0,3.59-.48h0c0-6.67-2.41-13.35-3.54-20.43h0a122.2,122.2,0,0,0-4.53-19.42h0c-7.55,1.2-15.39-.59-21.55,2.21h0c-3.36,12.95-9.92,24.93-12,37.62h0l.09.14h0a8.14,8.14,0,0,0,3.73.88Z\" transform=\"translate(-28 -142.04)\"/><path d=\"M36.75,253c-4.58-3.73-6.31-9.19-7.12-14.8h0c-.8-5.61-.72-11.5-1.43-16.36h0a1.1,1.1,0,0,1,0-.18h0c0-.42-.17-1.11-.18-1.93h0a3.17,3.17,0,0,1,.45-1.7h0l.17-.28.31-.14c2.14-1,5-2.28,7.87-2.3h0a6.73,6.73,0,0,1,2.64.5h0l.65.27,0,.71c.42,8.25,1,16.71,3.64,24.32h0c.7.86,2,1.54,3.08,2.72h0a32.36,32.36,0,0,0,5.29.44h0a33,33,0,0,0,8-1h0c5.49-1.4,9-5.09,11.34-10h0c2.31-4.91,3.27-11,3.42-16.84h0l0-.68.6-.29a6.68,6.68,0,0,1,3-.65h0a13.42,13.42,0,0,1,3.79.65h0l.32.11.22.26a5.75,5.75,0,0,1,1.28,3.78h0c0,1.31-.26,2.51-.32,3.71h0c-.19,4-.25,8.78-.82,12.77h0a48.6,48.6,0,0,1-2,8.77h0c-1.65,4.26-5.5,6.67-9.6,8.31h0c-4.13,1.64-8.66,2.59-12,3.76h0l-.14,0-.14,0c-2.22.16-4.53.3-6.85.3h0c-5.55,0-11.2-.8-15.51-4.3Zm-4.9-15.12c.78,5.41,2.39,10.2,6.31,13.39h0c3.65,3,8.74,3.79,14.1,3.79h0c2.18,0,4.39-.14,6.54-.29h0c3.54-1.2,7.93-2.14,11.76-3.68h0c3.9-1.55,7.06-3.67,8.35-7h0a48.64,48.64,0,0,0,1.84-8.27h0c.53-3.78.6-8.54.8-12.57h0c.07-1.42.31-2.62.3-3.6h0a3.39,3.39,0,0,0-.58-2.11h0a10.61,10.61,0,0,0-2.78-.45h0a5.14,5.14,0,0,0-1.39.18h0c-.22,5.81-1.22,11.88-3.61,17h0c-2.47,5.32-6.58,9.66-12.82,11.22h0a34.9,34.9,0,0,1-8.54,1.05h0a34.58,34.58,0,0,1-6.06-.53h0l-.4-.07-.26-.32c-.8-1-2.31-1.73-3.53-3.24h0l-.11-.14-.06-.17c-2.8-7.82-3.37-16.27-3.79-24.37h0a4.93,4.93,0,0,0-1.12-.12h0c-2,0-4.52,1-6.54,1.91h0a2,2,0,0,0,0,.27h0c0,.42.14,1.05.18,1.79h0c.74,5.12.65,11,1.43,16.36Z\" transform=\"translate(-28 -142.04)\"/><path d=\"M104.81,234.83l-.6,0-.27-.53c-.88-1.84-.87-3.73-1.41-5.12h0a1.14,1.14,0,0,1-.08-.55h0a2.81,2.81,0,0,0,0-.5h0c0-.86-.31-1.9-.32-3.15h0a4.86,4.86,0,0,1,.17-1.33h0l.11-.4.36-.21c2.36-1.38,4.26-1.21,6.76-1.47h0c3.61-.35,8.48-1.74,12.86-1.75h0c3.45,0,6.89,1,8.73,4.31h0l.24.43-.19.47a15.11,15.11,0,0,1-9.36,8.21h0a38.82,38.82,0,0,1-12.59,1.73h0c-1.55,0-3.05-.05-4.45-.11Zm4.45-1.93a37,37,0,0,0,11.92-1.62h0a13.1,13.1,0,0,0,7.93-6.62h0c-1.41-2.14-3.69-2.8-6.68-2.82h0c-4,0-8.77,1.34-12.66,1.74h0c-2.56.25-3.91.15-5.53,1h0a2.56,2.56,0,0,0,0,.39h0c0,.84.31,1.88.32,3.15h0c0,.17,0,.34,0,.52h0c.52,1.55.62,3,1,4.2h0c1.19,0,2.44.08,3.72.08Z\" transform=\"translate(-28 -142.04)\"/><path d=\"M162.94,237.42h-.08a4.45,4.45,0,0,1-3.43-1.88h0l-.21-.33,0-.38c.43-4.57,2.23-8.62,3.13-12.67h0l.06-.26.17-.21a5,5,0,0,1,4.09-1.63h0c.74,0,1.45.06,2.08.06h0a4,4,0,0,0,2.05-.41h0l.35-.21.41.07a2.59,2.59,0,0,1,1.48.89h0a3.74,3.74,0,0,0,.53.56h0l.46.33,0,.57c0,3.47,2.67,7.07,2.74,11.43h0a9.29,9.29,0,0,1-.13,1.56h0l-.13.7-.68.2a43.24,43.24,0,0,1-11.76,1.63h0l-1.19,0Zm1.19-2.24a41.15,41.15,0,0,0,10.42-1.35h0c0-.16,0-.32,0-.48h0c.07-3.22-2.32-6.67-2.7-10.85h0c-.2-.21-.34-.4-.45-.51h0s0,0,0,0h0a6.92,6.92,0,0,1-2.59.42h0c-.75,0-1.46,0-2.08,0h0a2.88,2.88,0,0,0-2.19.63h0c-1,4-2.52,7.79-3,11.63h0a2.62,2.62,0,0,0,1.43.57h0l1.14,0Z\" transform=\"translate(-28 -142.04)\"/><path d=\"M280.68,255.29,280,255l-.09-.78c-1.64-15.5-2.32-31.36-2.84-46.7h0v-.41l.22-.34a3.89,3.89,0,0,1,2.23-1.4h0a1.37,1.37,0,0,1,.35-.08h.6c1.81,0,3.87-.82,6.3-.85h0a8.45,8.45,0,0,1,1.4.12h0l.45.08.29.35c7.42,8.9,12.4,20.38,21.18,26.82h0c1.11-9,.46-18.46.94-27.88h0l0-.71.63-.33a18.58,18.58,0,0,1,8.42-2.51h0a9.13,9.13,0,0,1,2.08.22h0l1,.23-.06,1.06c-.61,11.52-1.44,23.31-1.44,35h0c0,4.43.12,8.84.42,13.22h0l0,.65-.5.41c-2.7,2.16-6.25,2.79-9.17,3.22h0l-.65.09-.44-.47a296.76,296.76,0,0,1-22.11-25.88h0l-.09-.12-.06-.14a7.71,7.71,0,0,0-.58-1.15h0c-.11,1.32-.16,2.67-.16,4h0c0,6.25,1,12.87,1,19.48h0c0,1.06,0,2.11-.08,3.17h0l0,.52-.39.34a7.28,7.28,0,0,1-4.86,1.63h0a9.87,9.87,0,0,1-3.36-.58Zm3.36-1.94a5.25,5.25,0,0,0,2.79-.69h0c0-.81.05-1.63.05-2.45h0c0-6.34-1-13-1-19.48h0a44,44,0,0,1,.42-6.39h0l.18-1.2,1.2.13a3.86,3.86,0,0,1,2.58,1.48h0a8.44,8.44,0,0,1,1.14,2h0a292.26,292.26,0,0,0,21.38,25.06h0a16.85,16.85,0,0,0,6.78-2.21h0c-.27-4.21-.37-8.46-.37-12.7h0c0-11.38.77-22.81,1.37-33.94h-.48a15.66,15.66,0,0,0-6.6,1.87h0c-.45,9.68.3,19.67-1.2,29.41h0l-.29,1.9-1.63-1c-10.57-6.72-15.7-19.14-23.1-28.07h0l-.52,0h0c-1.75,0-3.83.82-6.3.85h-.32l-.53.2h0c.51,14.87,1.18,30.18,2.72,45.12h0a8.4,8.4,0,0,0,1.76.2Z\" transform=\"translate(-28 -142.04)\"/><path d=\"M97.67,190.69l-.43-.1-.21-.4a12.07,12.07,0,0,1-1.14-5.64h0c0-1.62.15-3.21.15-4.72h0a17.36,17.36,0,0,0-.1-1.94h0l0-.13,0-.12a26.79,26.79,0,0,0,.19-3.5h0c0-1.37,0-2.77,0-4.18h0a25.19,25.19,0,0,1,.29-4.24h0c-.19-2.39-.25-4.75-.25-7.1h0c0-3.93.18-7.82.29-11.71h0v-.33l.21-.26a6.79,6.79,0,0,1,5.17-2.3h0a5.77,5.77,0,0,1,2.52.54h0l.41.19.11.44a16.83,16.83,0,0,1,.44,4.1h0c0,2-.2,3.93-.2,5.77h0a13.86,13.86,0,0,0,.48,4h0a18.92,18.92,0,0,0,2.14.12h0a31.37,31.37,0,0,0,10.08-2h0c.8-1.09,1-3.39,1-5.9h0c.06-2.65,0-5.51,1.41-7.65h0a3.58,3.58,0,0,1,3.06-1.56h0a7,7,0,0,1,3.59,1.17h0a7.77,7.77,0,0,1,2.52,2.44h0l.17.28,0,.33c-1,7.89-2,16.27-2.9,24.93h0c-.44,4.51-.18,9.4-.37,13.36h0a13,13,0,0,1-.24,2.3h0a4.13,4.13,0,0,1-2.1,2.59h0a6.76,6.76,0,0,1-3.22.79h0a6.46,6.46,0,0,1-2-.29h0l-.35-.12-.18-.31a11,11,0,0,1-1-2.09h0l-.06-.19V187a9.72,9.72,0,0,0,0-1.09h0c0-.69,0-1.42,0-2.18h0a10.84,10.84,0,0,1,.18-2.17h0a17.35,17.35,0,0,1-.16-2.49h0c0-2.5.37-5,.37-7.27h0a11.87,11.87,0,0,0-.73-4.49h0c-3.29.13-7.13.4-9.76,1.41h0c-.91.38-1.14.59-1.35,1.29h0c-.56,2.07-.63,7.53-.75,10.93h0a26.35,26.35,0,0,1-1,5.66h0a5.59,5.59,0,0,0,0,.74h0a2.75,2.75,0,0,1-.32,1.33h0a5,5,0,0,1-4.37,2.14h0a6.53,6.53,0,0,1-1.4-.15Zm1.4-1.77a3.1,3.1,0,0,0,2.7-1.18h0a.86.86,0,0,0,.07-.43h0a5.63,5.63,0,0,1,.09-1.11h0a25.73,25.73,0,0,0,1-5.3h0c.14-3.41.15-8.75.81-11.34h0a3.7,3.7,0,0,1,2.53-2.61h0c3.27-1.22,7.56-1.42,11-1.55h0l.63,0,.27.56a13.18,13.18,0,0,1,1.17,5.89h0c0,2.5-.38,5-.37,7.27h0a16.55,16.55,0,0,0,.16,2.37h0l0,.18,0,.18a9.18,9.18,0,0,0-.17,1.93h0c0,.69,0,1.42,0,2.18h0c0,.34,0,.69,0,1h0a8.16,8.16,0,0,0,.61,1.22h0a4.85,4.85,0,0,0,1,.11h0a4.87,4.87,0,0,0,2.29-.55h0a2.23,2.23,0,0,0,1.17-1.37h0a12.57,12.57,0,0,0,.18-1.93h0c.19-3.81-.08-8.75.38-13.46h0c.85-8.56,1.83-16.83,2.86-24.64h0a6.57,6.57,0,0,0-1.72-1.52h0a5.14,5.14,0,0,0-2.57-.88h0a1.64,1.64,0,0,0-1.48.74h0c-1,1.31-1.06,3.91-1.06,6.58h0c-.07,2.65,0,5.4-1.6,7.32h0l-.16.19-.24.08a33.43,33.43,0,0,1-11,2.2h0a18.89,18.89,0,0,1-3-.23h0l-.56-.09-.19-.53a14.62,14.62,0,0,1-.78-5.16h0c0-2,.2-3.93.2-5.77h0a15.42,15.42,0,0,0-.28-3.16h0a4,4,0,0,0-1.28-.19h0a5.06,5.06,0,0,0-3.48,1.37h0c-.11,3.8-.28,7.56-.28,11.31h0c0,2.35.07,4.7.26,7.06h0a.92.92,0,0,1,0,.29h0a24.61,24.61,0,0,0-.27,4h0c0,1.36,0,2.75,0,4.18h0a29.9,29.9,0,0,1-.19,3.64h0a17.7,17.7,0,0,1,.1,2.05h0c0,1.63-.15,3.22-.15,4.72h0a10.83,10.83,0,0,0,.73,4.34h0a4.58,4.58,0,0,0,.53,0Z\" transform=\"translate(-28 -142.04)\"/><path d=\"M146.45,190.51a2.58,2.58,0,0,1-1.75-1.79h0c-.15-.68-.1-1.14-.2-1.49h0c-.59-2.45-1.83-4.9-2-7.39h0c-.9-4.43-.58-8.6-1-12.4h0c-.3-3.05-.57-6.18-.57-9.38h0a39,39,0,0,1,2.22-13.66h0l.17-.48.49-.14a13.44,13.44,0,0,1,3.81-.5h0a46.08,46.08,0,0,1,7.55.95h.07c2.72.73,6.24-.06,9.51,1.56h0l.36.2.13.39a4.51,4.51,0,0,1,.2,1.35h0a8,8,0,0,1-1.7,4.53h0l-.36.46-.58-.08a39.1,39.1,0,0,0-5-.33h0a19.82,19.82,0,0,0-6.87,1h0a3,3,0,0,0-2,2.78h0c-.21,1.37-.05,3.16-.24,5h0a.49.49,0,0,0,0,.13h0a3.2,3.2,0,0,0,.56,2.14h0a2.33,2.33,0,0,0,1.41.71h0c1.35.3,3.37.06,5.26.62h0l.6.18.1.62a7.72,7.72,0,0,1,.09,1.18h0a12.27,12.27,0,0,1-1.25,5h0l-.13.29-.27.15a7.18,7.18,0,0,1-3,.74h0a3.3,3.3,0,0,0-1.58.45h0a31.29,31.29,0,0,0-.6,5h0c0,1.9.41,3.43,1.69,4.49h0l.74,0h0c1.56,0,2.92.24,4.34.29h.4c1.6,0,3.26-.32,4.92-.32h0a6.52,6.52,0,0,1,3.59.91h0l.4.26.05.48a5.49,5.49,0,0,1,0,.58h0a5,5,0,0,1-2.07,4h0a6.73,6.73,0,0,1-4,1.39h-.23c-1.6-.07-3.42-.19-5.38-.19h-.49c-1.41,0-4.26.47-6.07.48h0a4.12,4.12,0,0,1-1.4-.19Zm0-3.75c.17.73.13,1.27.2,1.47h0c.09.17,0,.15.52.41h0a2.74,2.74,0,0,0,.69.05h0c1.53,0,4.36-.45,6.05-.48h.51c2,0,3.9.13,5.46.2H160a4.74,4.74,0,0,0,2.79-1h0a3.06,3.06,0,0,0,1.3-2.29h0a5,5,0,0,0-2.07-.36h0c-1.39,0-3.08.32-4.92.32h-.46c-1.59-.06-2.95-.29-4.28-.28h0c-.32,0-.64,0-.95,0h0l-.37,0-.3-.21a7.29,7.29,0,0,1-2.81-6.34h0a35.66,35.66,0,0,1,.68-5.68h0l.05-.3.21-.23a4.61,4.61,0,0,1,3-1.24h0a8.8,8.8,0,0,0,1.92-.34h0a10,10,0,0,0,.91-3.87h0v-.22h0a29.76,29.76,0,0,0-3.06-.24h0a5.36,5.36,0,0,1-3.92-1.56h0a5.13,5.13,0,0,1-1-3.43h0V161h0v-.07c.19-1.56,0-3.36.25-5.09h0a5.1,5.1,0,0,1,3.28-4.36h0a21.42,21.42,0,0,1,7.6-1.14h0a41.44,41.44,0,0,1,4.64.27h0a5.67,5.67,0,0,0,1-2.85h0a2.19,2.19,0,0,0,0-.36h0c-2.31-1-5.44-.47-8.6-1.19h0a45.37,45.37,0,0,0-7.19-.92h0a12.42,12.42,0,0,0-2.76.29h0A37.42,37.42,0,0,0,143,158.06h0c0,3.08.26,6.15.56,9.17h0c.39,4.08.09,8.16.95,12.27h0a1.23,1.23,0,0,1,0,.2h0c.08,1.87,1.26,4.33,1.94,7.06Z\" transform=\"translate(-28 -142.04)\"/><path d=\"M63.35,193.86l-.53-.05-.28-.46a9.88,9.88,0,0,1-1.2-4.49h0a14.81,14.81,0,0,0-.57-3.87h0l-.05-.14v-.15c-.12-1.75-.14-3.57-.14-5.41h0c0-1.23,0-2.47,0-3.71h0a65.85,65.85,0,0,0-.45-8.83h0a38.76,38.76,0,0,0-1.09-6.6h-1c-3.21,0-7.26.25-10.72.25h0l-1.52,0h0a7.91,7.91,0,0,1-3.55-.85h0a5.83,5.83,0,0,1-2.83-3.61h0a3.47,3.47,0,0,1-.3-1.35h0a2.47,2.47,0,0,1,.75-1.78h0a3.87,3.87,0,0,1,1.47-.85h0a11.91,11.91,0,0,1,2.88-.52h0c1.82-.16,3.86-.19,5.91-.19h0c1.77,0,3.54,0,5.15,0h0c.87,0,1.69,0,2.44,0h0l.07-.26h0a7.77,7.77,0,0,1,.34-1.36h0a2.43,2.43,0,0,1,.87-1.11h0l.19-.13.22,0a18.41,18.41,0,0,1,3.36-.43h0a5.53,5.53,0,0,1,3,.74h0a4,4,0,0,1,1.35,2h0a4.74,4.74,0,0,0,.54,1.08h0l.07,0h0a2.28,2.28,0,0,0,.33.08h0a7.12,7.12,0,0,0,1,.09h0a71,71,0,0,1,7.92.71h0a12.15,12.15,0,0,1,7.19,3.33h0l.27.27,0,.38c0,.45.11,1,.11,1.62h0a3.93,3.93,0,0,1-.87,2.67h0l-.23.26-.34.08a16.26,16.26,0,0,1-3.51.35h0c-2.87,0-5.63-.54-8.25-.53h0a17.69,17.69,0,0,0-1.93.1h0a9.47,9.47,0,0,0-.68,4.12h0c0,.85,0,1.7,0,2.56h0a128.14,128.14,0,0,0,.93,16.73h0l0,.13v.14c-.29,2,.21,4.66-1.45,7h0L68,192l-.22.12c-1,.46-2.23,1.67-4.12,1.72h-.35Zm.11-5.17a9,9,0,0,0,.62,3h0a11.32,11.32,0,0,0,2.51-1.31h0c.9-1.38.7-3.48.92-5.72h0a129.82,129.82,0,0,1-.93-16.89h0c0-.87,0-1.73,0-2.58h0a10.13,10.13,0,0,1,1.28-5.67h0l.26-.39.46-.07a18.23,18.23,0,0,1,2.74-.2h0c2.89,0,5.66.54,8.25.54h0a14.51,14.51,0,0,0,2.65-.23h0a2.3,2.3,0,0,0,.17-1h0a10.27,10.27,0,0,0-.06-1.06h0a10.42,10.42,0,0,0-5.76-2.44h0a67.31,67.31,0,0,0-7.67-.68h0c-.38,0-.8-.06-1.22-.13h0a3,3,0,0,1-1.28-.47h0a4,4,0,0,1-1.17-1.75h0a5.1,5.1,0,0,0-.57-1.18h0l0,0h0A3.38,3.38,0,0,0,62.8,150h0a14.89,14.89,0,0,0-2.65.33h0l0,.05h0A4.34,4.34,0,0,0,60,151h0a3.16,3.16,0,0,1-1.06,2.11h0l-.27.21h-.34c-.92,0-1.93.05-3,.05h0l-5.15,0h0c-2,0-4,0-5.73.18h0c-1.08.05-2.74.38-3,.77h0a.31.31,0,0,0-.12.26h0a1.36,1.36,0,0,0,.15.54h0a.58.58,0,0,1,.06.17h0a3.65,3.65,0,0,0,1.81,2.38h0a5.64,5.64,0,0,0,2.59.59h0c.47,0,1,0,1.47,0h0c3.36,0,7.42-.24,10.72-.24h0c.6,0,1.18,0,1.73,0h0l.64,0,.28.58c1.05,2.26,1.15,5.29,1.51,7.81h0a66.43,66.43,0,0,1,.47,9.12h0c0,1.26,0,2.49,0,3.71h0c0,1.77,0,3.49.13,5.12h0a17.49,17.49,0,0,1,.64,4.28Z\" transform=\"translate(-28 -142.04)\"/></svg>",
+  "heroImage": "https://bricksdemo.euwest01.umbraco.io/media/zboj1mjd/dsc00961_600.jpg",
+  "aboutImage": "https://bricksdemo.euwest01.umbraco.io/media/5usjownb/klex_backstage.jpg",
+  "about": [
+    {
+      "type": "h3",
+      "text": "b. April 3, 2006 d. June 18, 2011 (zombie resurrection October 4, 2013)"
+    },
+    {
+      "type": "p",
+      "text": "✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝"
+    },
+    {
+      "type": "p",
+      "text": "They were a band that mattered to many. In true DIY-spirit they produced their own recordings and travelled many a road to perform their punk pop wonders to whoever was willing to lend them an ear. With a bit of help from friends around Europe they planned and played shows in cities like Hamburg, Berlin, Cologne, Gent, Greifswald, Rostock, Dresden, Chemnitz, Frankfurt, Freiburg and more. Plenty of good old times!"
+    },
+    {
+      "type": "p",
+      "text": "✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝ ✝"
+    },
+    {
+      "type": "p",
+      "text": "\"The Upallnights are the kind of band Sweden has never before been able to produce; the sort of band you have seen emerge from the streets of New York, Detroit or Manchester - but not Stockholm. Until now, that is. They are one of those bands that materialize out of the industrialized suburbs' old concrete air-raid shelters, out of pure joy and love for the music. As the old shelter gives birth to frustration, frustration gave birth to a band that plays, what can only be described as, groundbreaking punk pop with a beat you can dance to and melodies you cannot help but sing along with."
+    },
+    {
+      "type": "p",
+      "text": "Perhaps it is the fact that they play with their hearts exposed that has made their songs so popular. Fronting the band are the two brothers Anders Wallner and Kristoffer Sundberg along with Taivas Mikkola. By sharing lead vocals between the three of them, they generate an interesting tension that gives their songs an extra dimension; a bit like a Swedish version of the Gallaghers, but with extra cheese. And more punk rock of course. And an actual drummer in Erik Dahlström. With the looks of the Strokes, and a sound resembling a clash of Sonic Youth, The Libertines, Pavement and The Beatles, they strive to remind everyone of what many seem to have forgotten; music is supposed to be all about honesty, joy and love. And - if your heart should happen to be broken, you can still dance.\""
+    }
+  ],
+  "manifesto": [
+    "What you do first is the right thing, and just move on",
+    "We are only in it for the fun of it",
+    "If someone is willing to give us money, a recording contract, or extend an invitation to us to have dinner in their home, we will not decline",
+    "We believe strongly that China should get out of Tibet",
+    "We believe strongly that Stephen Malkmus and Jesus Christ are the same person",
+    "We reserve the right to change our minds at any time",
+    "We believe strongly that all internet communities, Myspace, Facebook etc, are run by the CIA to keep people distracted so that the American Government can go about their business without beeing disturbed. Therefore, all communities must be destroyed. This is best done from the inside and that's the real reason for us making music and posting it on the web, forget about all that talk about \"fun\" in §2.",
+    "This Manifesto will grow as we think of more things to put in it (Feel free to make suggestions, we'll consider anything)"
+  ],
+  "columns": [
+    [
+      {
+        "title": "Obnoxious Girl [ 2:14 ]",
+        "image": "https://bricksdemo.euwest01.umbraco.io/media/2hkpkntv/00251_500.jpg",
+        "photoCredit": "",
+        "background": null,
+        "alternate": false,
+        "concert": false,
+        "url": "https://bricksdemo.euwest01.umbraco.io/media/xlmfpyjj/the_upallnights-obnoxious_girl.mp3",
+        "details": [
+          {
+            "type": "credit",
+            "label": "Mixing:",
+            "value": "Johan Dahlén"
+          },
+          {
+            "type": "heading",
+            "text": "Lyrics:"
+          },
+          {
+            "type": "paragraph",
+            "text": "Hot city getting way too cold / I like you baby but I'm growing old / Hot city getting far to cold / I like you baby but I'm growing old so come on / Well come on / In your car in the heat of the night / I like you baby but you just ain't alright / In your car in the heat of the night / I like you baby but you ain't alright 'cause / You're obnoxious, girl / Obnoxius girl / Obnoxious girl / And now your hands are in my pants / Obnoxious Girl / Obnoxious Girl / And now your hands are in my pants / You're obnoxious / Obnoxious girl / In your car in the heat of the night / I like you baby but you just ain't alright / In your car in the heat of the night / I like you baby but you ain't alright 'cause / You're obnoxious, girl / Obnoxius girl / Obnoxious girl / And now your hands are in my pants / Obnoxious Girl / Obnoxious Girl / And now your hands are in my pants / You're obnoxious / Obnoxious girl",
+            "contact": false
+          },
+          {
+            "type": "heading",
+            "text": "Other versions:"
+          },
+          {
+            "type": "track",
+            "label": "Live at Klex 2009-10-25",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/eg2dqeea/01-obnoxious_girl.mp3"
+          },
+          {
+            "type": "video",
+            "title": "Official video — Filmed on location at Gebäude 9, Cologne on October 31, 2009",
+            "url": "https://player.vimeo.com/video/11712856?title=0&byline=0&portrait=0"
+          }
+        ],
+        "imageRight": false,
+        "longTitle": false
+      },
+      {
+        "title": "You Only Die Once (But for Such a Long Time) [ 2:14 ]",
+        "image": "https://bricksdemo.euwest01.umbraco.io/media/2fxlbf5x/tattoo.jpg",
+        "photoCredit": "",
+        "background": null,
+        "alternate": false,
+        "concert": false,
+        "url": "https://bricksdemo.euwest01.umbraco.io/media/cc4lulq0/the_upallnights-you_only_die_once_but_for_such_a_long_time.mp3",
+        "details": [
+          {
+            "type": "credit",
+            "label": "Mixing:",
+            "value": "Edward Forslund"
+          },
+          {
+            "type": "credit",
+            "label": "On trumpet:",
+            "value": "David Wallin"
+          },
+          {
+            "type": "heading",
+            "text": "Lyrics:"
+          },
+          {
+            "type": "paragraph",
+            "text": "Roll 'em up / Show your arms / My time's too precious to tamper with / Show me out / Really out of this / Life's too short to be wasted and / I don't mind if we stay in on summer days / This cellar's damp / It's gonna kill us both / The decay of outside wasn't meant for me / I might finally figure out what we're trying to be / Just a spark / Your giant heart / I know you'll die when I leave you behind / We'll always fade / Just slower, babe / Don't trash my charm it is all that I have / I never had nothing else / Nothing / You only die once but for such a long time / Show me lust / I'll call your bluff / Let's pray that we never go cold again / I'll always bail / You know me babe / Nobody ever taught me to grow up / Oh, to talk but don't tell me off / You never told me off / No / Don't / Don't let me go / Don't / Oh, honey, don't tell me off / You only die once but for such a long time",
+            "contact": false
+          },
+          {
+            "type": "heading",
+            "text": "Other versions:"
+          },
+          {
+            "type": "track",
+            "label": "Live at Klex 2009-10-25",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/0rtdcdp3/07-you_only_die_once.mp3"
+          },
+          {
+            "type": "track",
+            "label": "Live at Klex 2009-01-07",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/cvtbmp2z/09-you_only_die_once.mp3"
+          },
+          {
+            "type": "video",
+            "title": "Live video — Filmed at Magnet Club, Berlin on October 23, 2009",
+            "url": "https://www.youtube.com/embed/XI486op9Xe0?rel=0&showinfo=0"
+          }
+        ],
+        "imageRight": true,
+        "longTitle": true
+      },
+      {
+        "title": "My Intentions [ 3:13 ]",
+        "image": "https://bricksdemo.euwest01.umbraco.io/media/dwcfbmpj/047_1175.jpg",
+        "photoCredit": "",
+        "background": null,
+        "alternate": true,
+        "concert": false,
+        "url": "https://bricksdemo.euwest01.umbraco.io/media/vyclx1vp/the_upallnights-my_intentions.mp3",
+        "details": [
+          {
+            "type": "credit",
+            "label": "Produced by:",
+            "value": "The Upallnights"
+          },
+          {
+            "type": "heading",
+            "text": "Lyrics:"
+          },
+          {
+            "type": "paragraph",
+            "text": "I'm moving on / But my intentions / To break your heart / They are sincere / Thoughts are lost / Before they reach you / Eyes of ice and stone / We're not alone / Cracked up faces / Stare at us / Pools of left alones / I gaze upon / Through a windshield / Oh, mumbled words / Never heard you speak about them / Eyes of ice and stone / Cracked up faces / We're not alone / Stare at us / As we drive by / I want to show you / What we could be / But the heartbreak / You give to me / It holds me back / It holds me back / It holds me back",
+            "contact": false
+          }
+        ],
+        "imageRight": false,
+        "longTitle": false
+      },
+      {
+        "title": "LIVE IN CONCERT — KLEX, GREIFSWALD, 2009-10-25 [ 65:39 ]",
+        "image": null,
+        "photoCredit": "",
+        "background": "https://bricksdemo.euwest01.umbraco.io/media/2aepn0aw/setlist_2009_10_25_cropped.jpg",
+        "alternate": true,
+        "concert": true,
+        "url": null,
+        "details": [
+          {
+            "type": "track",
+            "label": "Obnoxious Girl",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/eg2dqeea/01-obnoxious_girl.mp3"
+          },
+          {
+            "type": "track",
+            "label": "Blueberry Pie",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/jy3gayqa/02-blueberry_pie.mp3"
+          },
+          {
+            "type": "track",
+            "label": "Somewhere",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/ydwnrgow/03-somewhere.mp3"
+          },
+          {
+            "type": "track",
+            "label": "Endless Night",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/ziujz2i3/04-endless_night.mp3"
+          },
+          {
+            "type": "track",
+            "label": "Work It Out",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/tqtb1w0d/05-work_it_out.mp3"
+          },
+          {
+            "type": "track",
+            "label": "God Help Us (We Are Young)",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/4vsn2wei/06-god_help_us_we_are_young.mp3"
+          },
+          {
+            "type": "track",
+            "label": "You Only Die Once (But For Such A Long Time)",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/0rtdcdp3/07-you_only_die_once.mp3"
+          },
+          {
+            "type": "track",
+            "label": "I've Been Waiting",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/b35cmvuw/08-ive_been_waiting.mp3"
+          },
+          {
+            "type": "track",
+            "label": "Stockholm",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/ybpptaf3/09-stockholm.mp3"
+          },
+          {
+            "type": "track",
+            "label": "Underneath The Covers",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/m3ehmg2j/10-underneath_the_covers.mp3"
+          },
+          {
+            "type": "track",
+            "label": "The Morning After",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/vvkjinhc/11-the_morning_after.mp3"
+          },
+          {
+            "type": "track",
+            "label": "Song To John",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/yrphlhln/12-song_to_john.mp3"
+          },
+          {
+            "type": "track",
+            "label": "Train To Nowhere",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/mjcbhe1q/13-train_to_nowhere.mp3"
+          },
+          {
+            "type": "track",
+            "label": "Animal Smell",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/hp3h4uw3/14-animal_smell.mp3"
+          },
+          {
+            "type": "track",
+            "label": "Cheek To Cheek",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/zy4dj0ih/15-cheek_to_cheek.mp3"
+          },
+          {
+            "type": "track",
+            "label": "Taxi Taxi",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/ndnhosc4/16-taxi_taxi.mp3"
+          },
+          {
+            "type": "track",
+            "label": "If We Make It Till Tomorrow",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/cevlkw0w/17-if_we_make_it_till_tomorrow.mp3"
+          }
+        ],
+        "imageRight": false,
+        "longTitle": false
+      },
+      {
+        "title": "The Morning After [ 4:44 ]",
+        "image": "https://bricksdemo.euwest01.umbraco.io/media/5lyoqksj/death_party-7_600.jpg",
+        "photoCredit": "",
+        "background": null,
+        "alternate": false,
+        "concert": false,
+        "url": "https://bricksdemo.euwest01.umbraco.io/media/mexd2pi3/the_upallnights-the_morning_after.mp3",
+        "details": [
+          {
+            "type": "credit",
+            "label": "Mixing:",
+            "value": "Stefan Helleblad"
+          },
+          {
+            "type": "credit",
+            "label": "On trumpet:",
+            "value": "David Wallin"
+          },
+          {
+            "type": "heading",
+            "text": "Lyrics:"
+          },
+          {
+            "type": "paragraph",
+            "text": "I could write you a sonnet / I could tell you I'm sorry / But nothing changes the fact / That what's done is done and it's never coming back / Oh, god, I fucked up / Nothing ever changes around here / So I switch on the television / MTV you killed my ambition / Yeah, tonight was fun / But it's not gonna last forever / No, we're not alright / You're nervous and I feel a bit uptight / And it's a lot to ask from anyone who's just as plastered / But all I want from you is / To meet me in the morning after / I haven't written this song for you / It's a matter of me / It's a matter of me / But if it's all the same to you / You can watch me leave / You can watch me / Can I see you tomorrow? / Fuck, nothing ever changes / Can I call you tomorrow? / Can you help me leave it all behind? / Yeah, tonight was fun / But it's not gonna last forever / No, we're not alright / You're nervous and I fell a bit uptight / It's a lot to ask from anyone who's just as plastered / But all I want from you is / To meet me in the morning after",
+            "contact": false
+          },
+          {
+            "type": "heading",
+            "text": "Other versions:"
+          },
+          {
+            "type": "track",
+            "label": "Live at Klex 2009-10-25",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/vvkjinhc/11-the_morning_after.mp3"
+          },
+          {
+            "type": "track",
+            "label": "Live at Klex 2009-01-07",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/0qjh1134/05-the_morning_after.mp3"
+          }
+        ],
+        "imageRight": false,
+        "longTitle": true
+      },
+      {
+        "title": "Endless Night [ 4:35 ]",
+        "image": "https://bricksdemo.euwest01.umbraco.io/media/pglnvt4g/3.jpg",
+        "photoCredit": "",
+        "background": null,
+        "alternate": false,
+        "concert": false,
+        "url": "https://bricksdemo.euwest01.umbraco.io/media/zgwpqwln/the_upallnights-endless_night.mp3",
+        "details": [
+          {
+            "type": "credit",
+            "label": "Produced by:",
+            "value": "The Upallnights"
+          },
+          {
+            "type": "heading",
+            "text": "Lyrics:"
+          },
+          {
+            "type": "paragraph",
+            "text": "I thought the boys were out tonight / Sad to say, I wasn't right / I just drink and laugh and cough / This is the end of the line, son / You have to get off / Somehow I never seem to try hard enough / I wanna tell you what I'm thinking of / And you were never even mine to use / On an endless night like this / All my ignorance is bliss / Oh no, no one shall be missed / And no lips shall stay unkissed / It takes a minute for me to say / You can listen, it's either way you like / I'm controlled but not OK / She said \"My, oh my, you remind me of him\" / Somehow I never seem to try hard enough / I wanna tell you what I'm thinking of / And you were never even mine to use / On an endless night like this / All my ignorance is bliss / Oh, no, no one shall be missed / An no lips shall stay unkissed",
+            "contact": false
+          },
+          {
+            "type": "heading",
+            "text": "Other versions:"
+          },
+          {
+            "type": "track",
+            "label": "Demo",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/d2bji4nq/the_upallnights-endless_night-demo.mp3"
+          },
+          {
+            "type": "track",
+            "label": "Live at Klex 2009-10-25",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/ziujz2i3/04-endless_night.mp3"
+          },
+          {
+            "type": "track",
+            "label": "Live In Studio - Radio 98eins",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/dgjf4qgw/the_upallnights-endless_night-live_in_studio-radio98eins.mp3"
+          },
+          {
+            "type": "video",
+            "title": "Live video — Filmed at Louie Louie, Stockholm in 2008",
+            "url": "https://www.youtube.com/embed/85xzvPKYK6I?rel=0&showinfo=0&start=261"
+          }
+        ],
+        "imageRight": true,
+        "longTitle": true
+      },
+      {
+        "title": "Blueberry Pie [ 3:50 ]",
+        "image": "https://bricksdemo.euwest01.umbraco.io/media/k22feahd/taivas_4_046_1175.jpg",
+        "photoCredit": "",
+        "background": null,
+        "alternate": true,
+        "concert": false,
+        "url": "https://bricksdemo.euwest01.umbraco.io/media/owyezfrk/the_upallnights-blueberry_pie.mp3",
+        "details": [
+          {
+            "type": "credit",
+            "label": "Produced by:",
+            "value": "The Upallnights"
+          },
+          {
+            "type": "heading",
+            "text": "Lyrics:"
+          },
+          {
+            "type": "paragraph",
+            "text": "Yeah / Something's in the air / It's gonna happen / What it is you know I just don't care / It's all good / It's all good / It's all good / Just surrender to the feeling / Put it in our hands / Yeah / Let's go to the airport / And catch a random flight / I tell you I'm ready / To leave this place tonight / Let's go to where / The governments don't lie / And everything you eat / Tastes like blueberry pie / That's what she said / That's what she said / That's what she said / Should I decide a reason why? / Still picking from the pale and worn out lies / It's all good / It's all good / It's all good / Your mind's made up / You can't deny / Can't deny / Let's go to the airport / And catch a random flight / I tell you I'm ready / To leave this place tonight / Let's go to where / The governments don't lie / And everything you eat / Tastes like blueberry pie / That's what she said / That's what she said / That's what she said / That's what she said / That's what she said / That's what she said",
+            "contact": false
+          },
+          {
+            "type": "heading",
+            "text": "Other versions:"
+          },
+          {
+            "type": "track",
+            "label": "Live at Klex 2009-10-25",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/jy3gayqa/02-blueberry_pie.mp3"
+          },
+          {
+            "type": "video",
+            "title": "Live video — Filmed at Ms Stubnitz, Rostock on April 17, 2008",
+            "url": "https://www.youtube.com/embed/uQ0PQ4D2zYA?rel=0&showinfo=0"
+          }
+        ],
+        "imageRight": false,
+        "longTitle": false
+      },
+      {
+        "title": "Cheek To Cheek [ 2:55 ]",
+        "image": "https://bricksdemo.euwest01.umbraco.io/media/0izbjgkz/dsc00385_600.jpg",
+        "photoCredit": "",
+        "background": null,
+        "alternate": false,
+        "concert": false,
+        "url": "https://bricksdemo.euwest01.umbraco.io/media/y1tagsqj/the_upallnights-cheek_to_cheek.mp3",
+        "details": [
+          {
+            "type": "credit",
+            "label": "Mixed by:",
+            "value": "Johan Dahlén"
+          },
+          {
+            "type": "heading",
+            "text": "Lyrics:"
+          },
+          {
+            "type": "paragraph",
+            "text": "Uh-oh / She's rubbing on my thigh that's how I know / That we'll never find the courage to let go / And be on our own again / No you'll never be alone but / Uh-oh / Remember when we just to take it slow / Yeah we always thought that we we're good to go / Now you're on your own again / Now your on your own / We're dancing cheek to cheek / But you're standing in between / Of me and all my dreams / Uh-oh / She's casting those pretty eyes at me / Now I'm finding it hard to leave it be / Then I'm on my own again / And I'll never be alone but / Uh-oh / She's letting her purple nipples show / And I'm finding it hard to let it go / Then I'm on my own again / No I'll never be alone / We're dancing cheek to cheek / But you're dancing on my feet / And you're standing in between / Of me and all my dreams / We're dancing cheek to cheek / You're the woman of my dreams / Me and all my",
+            "contact": false
+          },
+          {
+            "type": "heading",
+            "text": "Other versions:"
+          },
+          {
+            "type": "track",
+            "label": "Live at Klex 2009-10-25",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/zy4dj0ih/15-cheek_to_cheek.mp3"
+          },
+          {
+            "type": "track",
+            "label": "Live In Studio - Radio 98eins",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/n3kfhkq4/the_upallnights-cheek_to_cheek-live_in_studio-radio98eins.mp3"
+          }
+        ],
+        "imageRight": true,
+        "longTitle": false
+      },
+      {
+        "title": "Stockholm [ 3:53 ]",
+        "image": "https://bricksdemo.euwest01.umbraco.io/media/02ponkyr/tmaep_cut_600.jpg",
+        "photoCredit": "",
+        "background": null,
+        "alternate": false,
+        "concert": false,
+        "url": "https://bricksdemo.euwest01.umbraco.io/media/0xybhzmj/the_upallnights-stockholm.mp3",
+        "details": [
+          {
+            "type": "credit",
+            "label": "Mixing:",
+            "value": "Johan Dahlén"
+          },
+          {
+            "type": "heading",
+            "text": "Lyrics:"
+          },
+          {
+            "type": "paragraph",
+            "text": "The cold copper colored streets / The young lovers between the sheets / Hiding the spring away / Cause my brother got cut to deep / And at the dark end of this town / Where no saints are allowed / You set the atoms swirling / You can feel but you cannot breathe / I don't care about Stockholm / Let's make something happen / On the run from all that's sane / Going nowhere on a train / And you never let them touch you / Cause you just can't stand the pain / So trade your liquor for the dealing / Worried mothers against feelings / Let them know how you're doing fine / But really you're just dying inside / I don't care about Stockholm / Let's make something happen / I don't care about Stockholm / Let's make something happen / Cause we're on the road / And we're not going home / For so long / Yeah, for so long",
+            "contact": false
+          },
+          {
+            "type": "heading",
+            "text": "Other versions:"
+          },
+          {
+            "type": "track",
+            "label": "Live at Klex 2009-10-25",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/ybpptaf3/09-stockholm.mp3"
+          },
+          {
+            "type": "track",
+            "label": "Live In Studio - Radio 98eins",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/5heh1ggu/the_upallnights-stockholm-live_in_studio-radio98eins.mp3"
+          },
+          {
+            "type": "video",
+            "title": "Live video — Filmed at Schokoladen, Berlin on January 8, 2009",
+            "url": "https://www.youtube.com/embed/KcZztygYLAY?rel=0&showinfo=0"
+          }
+        ],
+        "imageRight": false,
+        "longTitle": true
+      },
+      {
+        "title": "Stubborn Heart [ 4:24 ]",
+        "image": "https://bricksdemo.euwest01.umbraco.io/media/pqfc2050/4053033984_abfeddcdbd_o.jpg",
+        "photoCredit": "",
+        "background": null,
+        "alternate": false,
+        "concert": false,
+        "url": "https://bricksdemo.euwest01.umbraco.io/media/40yblmhx/the_upallnights-stubborn_heart.mp3",
+        "details": [
+          {
+            "type": "credit",
+            "label": "Mixed by:",
+            "value": "Stefan Helleblad"
+          },
+          {
+            "type": "heading",
+            "text": "Lyrics:"
+          },
+          {
+            "type": "paragraph",
+            "text": "I'm sick of you / You're so cold and destructive / I'll follow through / With my original plan / Cause what you do first is the right thing and just move on / I'm sick of you / I'll follow through / I believe I'm happy again / Got a stubborn heart / A brand new friend / I believe I'm happy again / Got a stubborn heart / A brand new friend / And I don't need you to see this thing through / I don't need you to see this thing through / I don't need you to see this thing through / You're sick of me / I doesn't matter what I say / Just let me be / We can't be sick together / What you do first is the right thing and just move on / That's what Neil Young said / To me / To me / I believe I'm happy again / Got a stubborn heart / A brand new friend / I believe I'm happy again / Got a stubborn heart / A brand new friend / And I don't need you to see this thing through / I don't need you to see this thing through / I don't need you to see this thing through / I don't need you to see this thing through / I believe I'm happy again / Got a stubborn heart / A brand new friend / I believe I'm happy again / Got a stubborn heart / A brand new friend",
+            "contact": false
+          }
+        ],
+        "imageRight": true,
+        "longTitle": false
+      }
+    ],
+    [
+      {
+        "title": "If We Make It Till Tomorrow [ 3:20 ]",
+        "image": "https://bricksdemo.euwest01.umbraco.io/media/zohfsaat/00433_1175.jpg",
+        "photoCredit": "",
+        "background": null,
+        "alternate": true,
+        "concert": false,
+        "url": "https://bricksdemo.euwest01.umbraco.io/media/tnyjoq4g/the_upallnights-if_we_make_it_till_tomorrow.mp3",
+        "details": [
+          {
+            "type": "credit",
+            "label": "Produced by:",
+            "value": "The Upallnights"
+          },
+          {
+            "type": "heading",
+            "text": "Lyrics:"
+          },
+          {
+            "type": "paragraph",
+            "text": "Hello, you tell her / I know that cellar / Our love / Gun powder / That girl / What about her? / I heard you finally got together / Well, it's about time / These walls we've built together / Are about to be torn down / And I hope you take good care of / Your heart as I do mine / If we can make it till tomorrow / We'll be fine / Two sides / One story / Fed up / You bore me / No cash / No money / Bad hair / No fun at all / I heard you finally got together / Well, it's about time / These walls we've built together / Are about to be torn down / And I hope you take good care of / Your heart as I do mine / If we can make it till tomorrow / We'll be fine / If we make it till tomorrow / Well, it's about time / If we make it till tomorrow / Your heart as I do mine / If we make it till tomorrow / Walls come tumbling down / If we make it till tomorrow / We'll be fine",
+            "contact": false
+          },
+          {
+            "type": "heading",
+            "text": "Other versions:"
+          },
+          {
+            "type": "track",
+            "label": "Le Prunellier Remix",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/uvpo20bt/the_upallnights-if_we_make_it_till_tomorrow-le_prunellier_remix.mp3"
+          },
+          {
+            "type": "track",
+            "label": "Live at Klex 2009-10-25",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/cevlkw0w/17-if_we_make_it_till_tomorrow.mp3"
+          },
+          {
+            "type": "track",
+            "label": "Live at Klex 2009-01-07",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/0fxpdgqu/07-if_we_make_it_till_tomorrow.mp3"
+          },
+          {
+            "type": "heading",
+            "text": "Stems:"
+          },
+          {
+            "type": "download",
+            "label": "[166MB]",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/ufop4fu2/if_we_make_it-stems.zip"
+          },
+          {
+            "type": "paragraph",
+            "text": "Send your remake/remix/mashup/whatever to:",
+            "contact": true
+          },
+          {
+            "type": "video",
+            "title": "Live video — Filmed at Louie Louie, Stockholm in 2008",
+            "url": "https://www.youtube.com/embed/MLaEijbWjNI?rel=0&showinfo=0&start=249"
+          }
+        ],
+        "imageRight": false,
+        "longTitle": false
+      },
+      {
+        "title": "Underneath The Covers [ 3:48 ]",
+        "image": "https://bricksdemo.euwest01.umbraco.io/media/kftlnfsw/055_600.jpg",
+        "photoCredit": "",
+        "background": null,
+        "alternate": false,
+        "concert": false,
+        "url": "https://bricksdemo.euwest01.umbraco.io/media/4xflzsxk/the_upallnights-underneath_the_covers.mp3",
+        "details": [
+          {
+            "type": "credit",
+            "label": "Mixing:",
+            "value": "Stefan Helleblad"
+          },
+          {
+            "type": "heading",
+            "text": "Lyrics:"
+          },
+          {
+            "type": "paragraph",
+            "text": "Hey / You sleep on a mattress on the floor / Remember when we knew it all? / Hey / We are way to young to complain / Way to old to waste it away / Hey / Let's be cruel / Let's be lovers / Let's spill secrets underneath the covers / Hey / I know something nobody knows / But I ain't spilling it to you / I let it slip through my door / I know you heard it before / It's common sense / Feel it stuck in my wall / So satisfied on the floor / It's all that counts / Go /",
+            "contact": false
+          },
+          {
+            "type": "heading",
+            "text": "Other versions:"
+          },
+          {
+            "type": "track",
+            "label": "Live at Klex 2009-10-25",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/m3ehmg2j/10-underneath_the_covers.mp3"
+          },
+          {
+            "type": "track",
+            "label": "Live at Klex 2009-01-07",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/r4imopng/03-underneath_the_covers.mp3"
+          },
+          {
+            "type": "video",
+            "title": "Live video — Filmed at Louie Louie, Stockholm in 2008",
+            "url": "https://www.youtube.com/embed/8uU7fUplw7g?rel=0&showinfo=0"
+          }
+        ],
+        "imageRight": true,
+        "longTitle": true
+      },
+      {
+        "title": "I've Been Waiting [ 4:02 ]",
+        "image": "https://bricksdemo.euwest01.umbraco.io/media/ps2blko1/gent_01.jpg",
+        "photoCredit": "",
+        "background": null,
+        "alternate": false,
+        "concert": false,
+        "url": "https://bricksdemo.euwest01.umbraco.io/media/oc0jy4fq/the_upallnights-ive_been_waiting.mp3",
+        "details": [
+          {
+            "type": "credit",
+            "label": "Mixing:",
+            "value": "Edward Forslund"
+          },
+          {
+            "type": "heading",
+            "text": "Lyrics:"
+          },
+          {
+            "type": "paragraph",
+            "text": "I've been waiting so long / And my friends have been waiting too / Yeah, we've all been waiting / For this day / For this day to come / I feel sorry for you / And I've heard my friends say / They feel sorry for you too / Yeah, we're all very sorry / If you / If you can't keep up with us / 'cause I've been waiting / So long",
+            "contact": false
+          },
+          {
+            "type": "heading",
+            "text": "Other versions:"
+          },
+          {
+            "type": "track",
+            "label": "Acoustic demo",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/trulovcc/the_upallnights-ive_been_waiting-demo.mp3"
+          },
+          {
+            "type": "track",
+            "label": "Live at Klex 2009-10-25",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/b35cmvuw/08-ive_been_waiting.mp3"
+          }
+        ],
+        "imageRight": false,
+        "longTitle": false
+      },
+      {
+        "title": "Train To Nowhere [ 3:29 ]",
+        "image": "https://bricksdemo.euwest01.umbraco.io/media/ccxhmpoq/klex_backstage_600.jpg",
+        "photoCredit": "",
+        "background": null,
+        "alternate": false,
+        "concert": false,
+        "url": "https://bricksdemo.euwest01.umbraco.io/media/munjett1/the_upallnights-train_to_nowhere.mp3",
+        "details": [
+          {
+            "type": "credit",
+            "label": "Produced by:",
+            "value": "The Upallnights"
+          },
+          {
+            "type": "heading",
+            "text": "Lyrics:"
+          },
+          {
+            "type": "paragraph",
+            "text": "Yeah / I've been working for the company / Yeah / I have to get my monthly salary / Yeah / They try to shut me out / Shut me out / Oh / They wanna shut me out / Shut me out / Yeah / They try to put you in the monastery / Yeah / You don't belong in this society / Yeah / They wanna shut you out / Shut you out / Oh / They wanna shut you out / Shut you out / Can I get off of this train to nowhere? / To nowhere at all / Yeah / You don't mean a single thing to me / Yeah / I'm tired of your so called poetry / Yeah / I wanna shut you out / Shut you out / Oh / I'm gonna shut you out / Shut you out / Can I get off of this train to nowhere? / To nowhere at all / They're gonna shut you out / Shut you out / Yeah / They wanna shut you out / Shut you out / Yeah / They wanna shut me out / Shut me out / Oh / I'm gonna shut you out / Shut you out",
+            "contact": false
+          },
+          {
+            "type": "heading",
+            "text": "Other versions:"
+          },
+          {
+            "type": "track",
+            "label": "Demo",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/1yobxzhm/the_upallnights-train_to_nowhere-demo.mp3"
+          },
+          {
+            "type": "track",
+            "label": "Live at Klex 2009-10-25",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/mjcbhe1q/13-train_to_nowhere.mp3"
+          },
+          {
+            "type": "track",
+            "label": "Live at Klex 2009-01-07",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/qsqn0mh3/08-train_to_nowhere.mp3"
+          },
+          {
+            "type": "video",
+            "title": "Live video — Filmed at Pet Sounds Bar, Stockholm in 2008",
+            "url": "https://www.youtube.com/embed/f_ToOhMRP3I?rel=0&showinfo=0"
+          }
+        ],
+        "imageRight": true,
+        "longTitle": false
+      },
+      {
+        "title": "Bang! Bang! Bang! (Shoot My Way Out Of Here) [ 4:16 ]",
+        "image": "https://bricksdemo.euwest01.umbraco.io/media/p04mg0jj/the_upallnights_12.jpg",
+        "photoCredit": "Photo by Susi Becker",
+        "background": null,
+        "alternate": true,
+        "concert": false,
+        "url": "https://bricksdemo.euwest01.umbraco.io/media/gfgpusl2/the_upallnights-bang_bang_bang_shoot_my_way_out_of_here.mp3",
+        "details": [
+          {
+            "type": "credit",
+            "label": "Produced by:",
+            "value": "The Upallnights"
+          },
+          {
+            "type": "heading",
+            "text": "Lyrics:"
+          },
+          {
+            "type": "paragraph",
+            "text": "Do you remember the old comic books? / With proper heroes and old fashioned crooks / They don't make 'em like that anymore / The modern life is such a bore / With these two hands I'm 'a strangle you / You're gonna pay for what you put me through / I don't know my own name anymore / I don't know what you've been looking for / I've been looking for the sun / I'm a claustrophobic one / Gonna get myself a gun / And shoot my way out of here / Bang! Bang! Bang! Bang! Bang! Bang! Bang! Bang! / Good god, what a state I'm in / Standing on the corner feeling paper thin / Shotgun screaming out the song Last Night / And that's the soundtrack to our troubled lives / I feel imprisoned by these city walls / Except for the time that I spend at Paul's / I'll steal a boat and I'll flee real fast / Despite the present and despite the past / I've been looking for the sun / I'm a claustrophobic one / Gonna get myself a gun / And shoot my way out of here / I'm a-looking for the sun / I'm a claustrophibic one / Gonna get myself a gun / And shoot my way out of here / Bang! Bang! Bang! Bang! Bang! Bang! Bang! Bang! / I'm gonna get myself a gun / Said, Bang! Bang! Bang! / I'm gonna get myself a gun / Bang! Bang! Bang! Bang! Bang! Bang! Bang! Bang! / I'm a-looking for the sun / I'm a claustrophobic one / Gonna get myself a gun / And shoot my way out of here",
+            "contact": false
+          },
+          {
+            "type": "heading",
+            "text": "Other versions:"
+          },
+          {
+            "type": "track",
+            "label": "Live In Studio - Radio 98eins",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/jgtexbea/the_upallnights-bang_bang_bang_shoot_my_way_out_of_here-live_in_studio-radio98eins.mp3"
+          },
+          {
+            "type": "video",
+            "title": "Live soundcheck video — Filmed at Exil, Chemnitz in 2009",
+            "url": "https://www.youtube.com/embed/Pjj5KzT-mhs?rel=0&showinfo=0&start=16"
+          }
+        ],
+        "imageRight": false,
+        "longTitle": false
+      },
+      {
+        "title": "20/24 [ 3:15 ]",
+        "image": "https://bricksdemo.euwest01.umbraco.io/media/mvhbk0zk/gent_02.jpg",
+        "photoCredit": "",
+        "background": null,
+        "alternate": false,
+        "concert": false,
+        "url": "https://bricksdemo.euwest01.umbraco.io/media/kgwn1kgl/the_upallnights-20_24.mp3",
+        "details": [
+          {
+            "type": "credit",
+            "label": "Produced by:",
+            "value": "The Upallnights"
+          },
+          {
+            "type": "heading",
+            "text": "Lyrics:"
+          },
+          {
+            "type": "paragraph",
+            "text": "Something's happening inside / Something's speeding through the night / Four mistakes and one goodbye / You and I were never right / Alright / You and me have been up all night / Who would have thought this could happen / Could have thought this could happen to us / We met on Prince Street around around nine this evening / All of a sudden / Well / Time flies / And it's five AM / We've been up all night / We've grown accustomed to / The city lights / When the smoke gets in your eyes / I start to sympathize with you / I lied to you about my age / Sorry / Someday I will treat you right / Out of mind and out of sight / Blinded by the bedroom light / Love me / Leave me / Hold me tight / You and I have been up all night / Who would have thought this could happen / Could have thought this could happen to us / You and I have been up all night / Who would have thought this could happen / Thought this could happen to us / We met on Prince Street around nine this evening / All of a sudden / Well / Time flies / And it's five AM / We've been up all night / We've grown accustomed to / The city lights / When the smoke gets in your eyes / And you start to realize / I lied to you about my age",
+            "contact": false
+          }
+        ],
+        "imageRight": true,
+        "longTitle": false
+      },
+      {
+        "title": "God Help Us (We Are Young) [ 4:49 ]",
+        "image": "https://bricksdemo.euwest01.umbraco.io/media/xnwm0ewb/dscn2538_20090905-1568_cropped.jpg",
+        "photoCredit": "",
+        "background": null,
+        "alternate": true,
+        "concert": false,
+        "url": "https://bricksdemo.euwest01.umbraco.io/media/pzgpuc5g/the_upallnights-god_help_us_we_are_young.mp3",
+        "details": [
+          {
+            "type": "credit",
+            "label": "Mixed by:",
+            "value": "Johan Dahlén"
+          },
+          {
+            "type": "heading",
+            "text": "Lyrics:"
+          },
+          {
+            "type": "paragraph",
+            "text": "Oh / I gave my everything but it's not enough for you / Would you like me more if I would ask you to? / And I'll soon be gone and you'll be gone too / Oh / If I ever get that close to you again / Would you close your eyes and tell me that we're fiends? / Could you ever see or was it just pretend? / It was just pretend / Could you ever say what's right or wrong / I don't even know where we belong / And who knows what we'll become / God help us / We are young / And who knows what we'll become / God help us / We are young / We are young / No / I don't have a penny to my name / It seems to you like it's all a big game / Things will change and never stay the same / So / If it's the final thing that I will say to you / Would you honor me by telling me the truth / Are we older now or is it still our youth? / We're still in our youth / Could you ever say what's right or wrong / I don't even know where we belong / And who knows what we'll become / God help us / We are young / Who knows what we'll become / God help us we are young / We are young / We are young",
+            "contact": false
+          },
+          {
+            "type": "heading",
+            "text": "Other versions:"
+          },
+          {
+            "type": "track",
+            "label": "Live at Klex 2009-10-25",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/4vsn2wei/06-god_help_us_we_are_young.mp3"
+          }
+        ],
+        "imageRight": false,
+        "longTitle": true
+      },
+      {
+        "title": "LIVE IN CONCERT — KLEX, GREIFSWALD, 2009-01-07 [ 40:17 ]",
+        "image": null,
+        "photoCredit": "",
+        "background": "https://bricksdemo.euwest01.umbraco.io/media/jmmem0no/tour_plan_cropped.jpg",
+        "alternate": true,
+        "concert": true,
+        "url": null,
+        "details": [
+          {
+            "type": "track",
+            "label": "Talk",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/rqqngcji/01-talk.mp3"
+          },
+          {
+            "type": "track",
+            "label": "Song To John",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/jeppacyd/02-song_to_john.mp3"
+          },
+          {
+            "type": "track",
+            "label": "Underneath The Covers",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/r4imopng/03-underneath_the_covers.mp3"
+          },
+          {
+            "type": "track",
+            "label": "Voluptuous Life",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/rmjfmq4a/04-voluptuous_life.mp3"
+          },
+          {
+            "type": "track",
+            "label": "The Morning After",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/0qjh1134/05-the_morning_after.mp3"
+          },
+          {
+            "type": "track",
+            "label": "Somewhere",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/jk3jjvea/06-somewhere.mp3"
+          },
+          {
+            "type": "track",
+            "label": "If We Make It Till Tomorrow",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/0fxpdgqu/07-if_we_make_it_till_tomorrow.mp3"
+          },
+          {
+            "type": "track",
+            "label": "Train To Nowhere",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/qsqn0mh3/08-train_to_nowhere.mp3"
+          },
+          {
+            "type": "track",
+            "label": "You Only Die Once (But For Such A Long Time)",
+            "url": "https://bricksdemo.euwest01.umbraco.io/media/cvtbmp2z/09-you_only_die_once.mp3"
+          }
+        ],
+        "imageRight": false,
+        "longTitle": false
+      }
+    ]
+  ],
+  "radio": [
+    {
+      "id": "radio",
+      "title": "Neosphaere, Radio 98eins - Greifswald, Germany 2008-04-15",
+      "tracks": [
+        {
+          "title": "Part 1 - Introduction",
+          "description": "In which the band members introduce themselves",
+          "url": "https://bricksdemo.euwest01.umbraco.io/media/53hpt0zu/part_1.mp3"
+        },
+        {
+          "title": "Part 2 - Victor the fox",
+          "description": "In which the band members talk about how they met and tell the story about how they came to know Victor the fox",
+          "url": "https://bricksdemo.euwest01.umbraco.io/media/mgbecqc1/part_2-victor_the_fox.mp3"
+        },
+        {
+          "title": "Part 3 - Apfel ritter and kleptomania",
+          "description": "In which the band clarify what their band is called and talk about the general kleptomaniac behavior of the Swedish people",
+          "url": "https://bricksdemo.euwest01.umbraco.io/media/judc5gz2/part_3-apfel_ritter_and_kleptomania.mp3"
+        },
+        {
+          "title": "Part 4 - Musical upbringing",
+          "description": "In which the band members talk about when they started to play music and why",
+          "url": "https://bricksdemo.euwest01.umbraco.io/media/geknaaiu/part_4-musical_upbringing.mp3"
+        },
+        {
+          "title": "Part 5 - The Morning After (acoustic)",
+          "description": "An acoustic live performance of the song The Morning After",
+          "url": "https://bricksdemo.euwest01.umbraco.io/media/xe3hhaay/part_5-morning_after_acoustic.mp3"
+        },
+        {
+          "title": "Part 6 - Tullinge",
+          "description": "In which the band talk about the suburb of Tullinge and Andy Bell",
+          "url": "https://bricksdemo.euwest01.umbraco.io/media/vfbhicvx/part_6-tullinge.mp3"
+        },
+        {
+          "title": "Part 7 - Speaking of other bands",
+          "description": "In which the band talk about what other bands they like",
+          "url": "https://bricksdemo.euwest01.umbraco.io/media/13xd2nz1/part_7-speaking_of_other_bands.mp3"
+        },
+        {
+          "title": "Part 8 - The Upallnights as a live band",
+          "description": "In which the band tries to explain what people can expect from their live performances",
+          "url": "https://bricksdemo.euwest01.umbraco.io/media/p1cpzten/part_8-tuan_as_a_live_band.mp3"
+        },
+        {
+          "title": "Part 9 - Born On a Train (acoustic)",
+          "description": "An acoustic live performance of the Magnetic Fields song Born On a Train",
+          "url": "https://bricksdemo.euwest01.umbraco.io/media/ttjjp1rk/part_9-born_on_a_train_acoustic.mp3"
+        },
+        {
+          "title": "Part 10 - Working in a bank",
+          "description": "In which the band members talk about their ordinary lives",
+          "url": "https://bricksdemo.euwest01.umbraco.io/media/q1mis0il/part_10-working_in_a_bank.mp3"
+        },
+        {
+          "title": "Part 11 - Name dropping",
+          "description": "In which the show ends in rambling",
+          "url": "https://bricksdemo.euwest01.umbraco.io/media/5syl1ixg/part_11-name_dropping.mp3"
+        }
+      ],
+      "photos": [
+        "https://bricksdemo.euwest01.umbraco.io/media/r2qhibea/death_party-1_50_cropped.jpg",
+        "https://bricksdemo.euwest01.umbraco.io/media/f43dcqwb/death_party-3_30.jpg",
+        "https://bricksdemo.euwest01.umbraco.io/media/porhrdq4/death_party-2_30.jpg"
+      ],
+      "bylines": [
+        "Photo by Ken Andersson",
+        "Photo by Ken Andersson",
+        "Photo by Ken Andersson"
+      ]
+    },
+    {
+      "id": "radio-2",
+      "title": "Neosphaere, Radio 98eins - Greifswald, Germany 2009-06-09",
+      "tracks": [
+        {
+          "title": "Part 1 - The Wavves guitar",
+          "description": "In which the band member tell the story of how they left a Wavves concert with a broken telecaster",
+          "url": "https://bricksdemo.euwest01.umbraco.io/media/spqp0fs5/part_1-introduction_and_the_wavves.mp3"
+        },
+        {
+          "title": "Part 2 - To be a band in Sweden",
+          "description": "In which the band members talk about what it is like to be a band in Sweden",
+          "url": "https://bricksdemo.euwest01.umbraco.io/media/y0pdmcha/part_2-to_be_a_band_in_sweden.mp3"
+        },
+        {
+          "title": "Part 3 - Afraid of an instrument?",
+          "description": "In which the band answer the difficult question of whether there is an instrument that they are afraid of",
+          "url": "https://bricksdemo.euwest01.umbraco.io/media/xefjt3id/part_3-afraid_of_an_instrument.mp3"
+        },
+        {
+          "title": "Part 4 - The deaf person",
+          "description": "In which the band members try to explain what they sound like to a deaf person",
+          "url": "https://bricksdemo.euwest01.umbraco.io/media/djhfhmva/part_4-deaf-person.mp3"
+        },
+        {
+          "title": "Part 5 - What music means",
+          "description": "In which the band tries to explain what music means to them",
+          "url": "https://bricksdemo.euwest01.umbraco.io/media/34uidohq/part_5-what_does_music_mean_to_you.mp3"
+        },
+        {
+          "title": "Part 6 - Ending",
+          "description": "In which the band wraps things up in the usual manner",
+          "url": "https://bricksdemo.euwest01.umbraco.io/media/gpoca0hv/part_6-ending.mp3"
+        }
+      ],
+      "photos": [
+        "https://bricksdemo.euwest01.umbraco.io/media/uxvbrg1v/102_1175.jpg",
+        "https://bricksdemo.euwest01.umbraco.io/media/z0cl14cc/064_1175.jpg"
+      ],
+      "bylines": [
+        "",
+        ""
+      ]
+    },
+    {
+      "id": "radio-3",
+      "title": "Neosphaere, Radio 98eins - Greifswald, Germany 2009-01-06",
+      "tracks": [
+        {
+          "title": "Part 1 - Presentation",
+          "description": "In which the band members present themselves",
+          "url": "https://bricksdemo.euwest01.umbraco.io/media/r3tbmlul/part_1-presentation.mp3"
+        },
+        {
+          "title": "Part 2 - Songwriting",
+          "description": "In which the band members talk about the songwriting process",
+          "url": "https://bricksdemo.euwest01.umbraco.io/media/etnodxtg/part_2-songwriting.mp3"
+        },
+        {
+          "title": "Part 3 - History of the band",
+          "description": "In which the band talk about the history of the band",
+          "url": "https://bricksdemo.euwest01.umbraco.io/media/wxcjgeen/part_3-history_of_the_band.mp3"
+        },
+        {
+          "title": "Part 4 - Cheek to Cheek (live in studio)",
+          "description": "A live in studio performance of the song Cheek to Cheek",
+          "url": "https://bricksdemo.euwest01.umbraco.io/media/yytjbcll/part_4-cheek_to_cheek_live_in_studio.mp3"
+        },
+        {
+          "title": "Part 5 - The Factory Sessions",
+          "description": "In which the band talk about The Factory Sessions",
+          "url": "https://bricksdemo.euwest01.umbraco.io/media/p3ijjryx/part_5-factory_sessions.mp3"
+        },
+        {
+          "title": "Part 6 - The internet",
+          "description": "In which the band talk about the internet",
+          "url": "https://bricksdemo.euwest01.umbraco.io/media/a24bckiz/part_6-internetz.mp3"
+        },
+        {
+          "title": "Part 7 - Håkan Hellström",
+          "description": "In which the band talk about swedish artist Håkan Hellström",
+          "url": "https://bricksdemo.euwest01.umbraco.io/media/srljbjl1/part_7-hakan_hellstrom.mp3"
+        },
+        {
+          "title": "Part 8 - Erik is here",
+          "description": "In which the band sings a swedish kids' song",
+          "url": "https://bricksdemo.euwest01.umbraco.io/media/b4lhwqhq/part_8-erik_is_here.mp3"
+        },
+        {
+          "title": "Part 9 - Reacting to The Morning After",
+          "description": "In which three forths of the band react to hearing the mix of the song The Morning After for the first time",
+          "url": "https://bricksdemo.euwest01.umbraco.io/media/t5bj5e0o/part_9-reacting_to_the_morning_after.mp3"
+        },
+        {
+          "title": "Part 10 - The show",
+          "description": "In which the band members talk about what to expect from their live show",
+          "url": "https://bricksdemo.euwest01.umbraco.io/media/ehmjahpo/part_10-the_show.mp3"
+        },
+        {
+          "title": "Part 11 - The struggle is real",
+          "description": "Talking about the music climate in Sweden",
+          "url": "https://bricksdemo.euwest01.umbraco.io/media/e2ghliy2/part_11.mp3"
+        },
+        {
+          "title": "Part 12 - Wrapping up",
+          "description": "In which the band wraps it up",
+          "url": "https://bricksdemo.euwest01.umbraco.io/media/pwwiesmt/part_12-wrapping_up.mp3"
+        }
+      ],
+      "photos": [
+        "https://bricksdemo.euwest01.umbraco.io/media/j4ggbg2f/00251_1175.jpg",
+        "https://bricksdemo.euwest01.umbraco.io/media/zohfsaat/00433_1175.jpg",
+        "https://bricksdemo.euwest01.umbraco.io/media/y53am5lw/00291_1175.jpg"
+      ],
+      "bylines": [
+        "",
+        "",
+        ""
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Work It Out live video",
+      "location": "Filmed at Landet, Stockholm",
+      "date": "August 19, 2010",
+      "url": "https://player.vimeo.com/video/14373817?title=0&byline=0&portrait=0"
+    },
+    {
+      "title": "Born On a Train live video",
+      "location": "Filmed at Pluto, Stockholm",
+      "date": "April 17, 2010",
+      "url": "https://www.youtube.com/embed/sKT7l-yP0uo?rel=0&showinfo=0"
+    },
+    {
+      "title": "The Best of The Upallnights album teaser promotional video",
+      "location": "December 17, 2012",
+      "date": "",
+      "url": "https://www.youtube.com/embed/_O50w3gar2M?rel=0&showinfo=0"
+    },
+    {
+      "title": "#9 video diary",
+      "location": "Filmed on the streets of Berlin",
+      "date": "",
+      "url": "https://www.youtube.com/embed/7WlLX_elvME?rel=0&showinfo=0"
+    }
+  ]
+}

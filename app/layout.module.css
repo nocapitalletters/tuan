@@ -1,0 +1,10 @@
+.siteHeader { padding: 22px clamp(16px, 4vw, 60px); display: flex; justify-content: space-between; align-items: center; gap: 20px; flex-wrap: wrap; background: white; }
+.siteBrand { color: #161616; font-size: 1.5rem; text-decoration: none; text-transform: uppercase; }
+.siteBrand span { color: #4285f4; }
+.siteHeader nav { display: flex; gap: 5px; flex-wrap: wrap; }
+.siteHeader nav a { padding: 10px 14px; border: 1px solid #4285f4; text-decoration: none; text-transform: uppercase; }
+.siteHeader nav a:hover { background: #4285f4; color: white; }
+@media (max-width: 650px) {
+  .siteHeader nav { width: 100%; }
+  .siteHeader nav a { padding: 8px; }
+}

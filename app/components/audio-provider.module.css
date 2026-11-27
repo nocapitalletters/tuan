@@ -1,0 +1,22 @@
+.player { position: fixed; z-index: 20; bottom: 0; left: 0; right: 0; color: white; background: #000; padding: 8px 16px; display: none; }
+.playerVisible { display: block; }
+.nowPlaying { display: flex; flex-wrap: wrap; gap: 8px 12px; justify-content: space-between; align-items: center; margin-top: 6px; }
+.controls { display: flex; gap: 6px; }
+.controls button, .diplomaDownload { background: transparent; color: white; border: 1px solid white; padding: 4px 10px; white-space: nowrap; }
+.controls button:disabled { opacity: .4; cursor: default; }
+.controls button:hover:not(:disabled), .diplomaDownload:hover { background: white; color: black; }
+.player p { margin: 5px 0; color: #ffafaf; }
+.fanMeter { display: grid; grid-template-columns: auto repeat(5, minmax(0, 1fr)) minmax(0, 2fr); align-items: stretch; font-size: .8rem; border: 1px solid #fff6; }
+.fanMeter strong, .fanLevel { padding: 3px 6px; display: flex; align-items: center; justify-content: center; text-align: center; }
+.fanLevel { opacity: .35; border-left: 1px solid #fff6; }
+.fanLevel.achieved { opacity: 1; }
+.level0 { background: #a50808; }
+.level1 { background: #935503; }
+.level2 { background: #716000; }
+.level3 { background: #176f11; }
+.level4 { background: #096081; }
+.level5 { background: #2927a1; }
+@media (max-width: 650px) {
+  .fanMeter { grid-template-columns: repeat(2, minmax(0, 1fr)); max-height: 96px; overflow-y: auto; }
+  .fanMeter strong { grid-column: 1 / -1; }
+}
