@@ -14,12 +14,6 @@
     font-family: var(--font-josefin);
   }
   
-  @media screen and (max-width: 670px) {
-    .h2 span {
-      display: none;
-    }
-  }
-  
   .overlay {
     width: 100%;
     position: absolute;
